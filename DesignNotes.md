@@ -76,7 +76,7 @@ Disbands and flees at 20i or 7 threats.
 ## BARD
 
 Spout lore: Introduce a threat with your first Mettle test each battle. 
-Dirge: Add an ambient d4 Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 
+Dirge: Add an ambient Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 
 
 
 Musical instrument; can be super simple, as little as a spoon and three glasses of different sizes and a spoon so you can play 3 notes. 
@@ -140,9 +140,9 @@ Study magical items and effects / Ghosts and haunts
 Tite attaque avec la tite baguette: Deal 1d4i close or far from you. Inflict *Cold*. 
 
 ACTIONS in Battle
-Raising the stakes: Add a Ambiant *Cold* or *Fire* 
-Convert Element: Consume *Cold* or *Fire* to Inflict *Water*, *Blight* or *Fool*
-Clairvision : Clear all Targeted *Fool* on an ally
+Raising the stakes: Inflict a *Cold* or *Fire* on each ennemy 
+Convert Element: Consume *Cold* or *Fire* to Inflict *Water*, *Fool* 
+Clairvision : Clear all Targeted *Fool* on an ally 
 
 # Ice Mastery
 *Rituals of rime.* 
