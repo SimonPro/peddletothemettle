@@ -1,10 +1,11 @@
 # Discussions
 
 ## 30 mars 2026
+Suite aux commentaires pertinents d'hier, jtrouve que ça clean up pas mal mes idées garochées, thx
 
  **Élimination de Debris et Gravity**
   - **Gravity** j'ai qqch en tête mais c'était pas clean comme design. Je voulais designer une threat qui se résolvait a la fin du settle et qui était plus grosse, plus qu'il y avait d'autre threat. Par exemple je te lance en bas d'un cliff, mais le mage met de la glace en pic *cold* pis que le ranger a mis une trape à ours  *trap*.  L'idée était de lancer un genre de gros TAG TEAM action que tout le monde disaient OK on focus a inflict le plus de threat que possible.
-  - **Debrit**: Le design était pas si clean que ça, le but c'est que je voulais avoir une mécanique de ressource consumable juste sur le fight, mais on y repensera comment  que ca pourrait etre faisable. Commençons par le warrior qui fait juste speder whatever le party a dans son supply pour faire des actions
+  - **Debrit**: Le design était pas si clean que ça, le but c'est que je voulais avoir une mécanique de ressource consumable juste sur le fight, mais on y repensera comment  que ca pourrait etre faisable - peut être ton affaire de jouet? Commençons par le warrior qui fait juste speder whatever le party a dans son supply pour faire des actions
 
 **Éliminer les Settle actions sur les threat** 
    -  Déplacé ça dans le passive at settle des ennemis, l'intention c'est que la dynamique du round devienne : oh on a des dommage à clearer et des status qui vont nous péter dessus. 
@@ -22,7 +23,7 @@
   - Avoir un concept d'enlever à un allié, ajouter à un ennemi, enlever à un ennemi (Clear, Inflict, Consume) ?
     - J'ai essayé d'être cohérent avec les mots que j'utilisais reste a savoir comment on bridge ça avec ton vocabulaire
 
-**Merger les threat et gestion des synergies**
+**Créer des synergies**
 - Le mage peut setup une grosse attaque pour le fighter 
   - Transform du *fool* en *trap* (genre les pti goblins se cachent, le mage fait glacer des trucs, ca hinder le mouvement stealth des golbins - *trap*)
   - Clear *fool*, Inflict *Fool* (les pti goblins se cachent, le feu pogne dans les ronces, la boucane les aveugle *fool*)

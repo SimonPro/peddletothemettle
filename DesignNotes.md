@@ -66,7 +66,8 @@ Stress limit: 2
 7+: As 1-2, twice.
 
 _Settle_
-Passive deal 1d6i for each *Fool*
+Hidden blades: Passive deal 1d6i for each *Fool*
+Slipery : Clear *trap* 
 Crew. Any damage die higher than 4 drops to 4. 
 Disbands and flees at 20i or 7 threats. 
 
