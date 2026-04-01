@@ -1,3 +1,12 @@
+# Playtest 2 Idea:
+
+- Jouer avec les thread de facon plus assumées
+- Concept de thread ambiante (pour l'environnement) et threat totale (ambiante + targeted), on prend pour acquis que si on utilise les threats sur un mob pour un calcul, c'est total, sauf si on parle de targeted threat
+- Être très généreux sur la distribution des threats, mais offir un bon buff quand on clear
+- Jouer avec les effets de settle avec les threats
+- Creer une assymétrie entre la game du DM pour gérer les threat et celle des joueurs
+- Design de classe assymétriques qui joue avec les un main tree et des speciality
+
 
 # CORE GAMEPLAY DESIGN
 
@@ -191,12 +200,3 @@ Mark Supply and spend a short time to conduct an fire-themed magic ritual.
 Do a Test if the application is dubious, or the effect stronger than described here. 
 
 
-
-## Playtest 2 Idea:
-
-- Jouer avec les thread de facon plus assumées
-- Concept de thread ambiante (pour l'environnement) et threat totale (ambiante + targeted), on prend pour acquis que si on utilise les threats sur un mob pour un calcul, c'est total, sauf si on parle de targeted threat
-- Être très généreux sur la distribution des threats, mais offir un bon buff quand on clear
-- Jouer avec les effets de settle avec les threats
-- Creer une assymétrie entre la game du DM pour gérer les threat et celle des joueurs
-- Design de classe assymétriques qui joue avec les un main tree et des speciality
