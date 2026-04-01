@@ -3,7 +3,7 @@
 
 ## Threat ideas
  - Gravity (Included in "trap" IMO, risk of falling off the cliff)
- - Rubble (Dépend un peu de comment le rubble créé un risque; de pas voir (cover)? de se blesser? (trap))
+ - Rubble (Dépend un peu de comment le rubble créé un risque; de pas voir (dark)? de se blesser? (trap))
 
 ## Conditions
 Prefer Daggerheart, One Ring -- very few conditions, 2-3 at most.
@@ -23,6 +23,9 @@ Weakness threat: baisse le dé d'attaque ("slow the enemy")
 Malus pour clearer des status contre un malus sur le dé
  - Dépend si on veut un design "le DM choisit comment agir" VS Dragonbane, mais oui si un monstre se fait ramasser par les malus pis que tu as pas le contrôle comme DM, peut être plate. 
 
+## Monster scaling
+Currently managed by the action economy and a roll on an action table where it gets increasingly harder, but modified by the level difference. 
+
 ## Threat management
 
 Research opportunity for the heroes to figure which combination of threats can shut down a foe completely; include that in stat blocks. 
@@ -33,15 +36,15 @@ Research opportunity for the heroes to figure which combination of threats can s
 
 *Goblin crew* (Level 1)
 Difficulty 4
-Affinities Cover, Dark
+Affinities Dark, Fool
 Stress limit: 2
 
 1d6 + lvl difference
-<1: Witness a confused mess. Deal 1d6i to a foe and to yourself. 
+<1: Witness a confused mess. Deal 1d6i to a close foe and to yourself. 
 1-2: Remain *steadfast* despite the mad shrieks and rusty knives. Deal 2d6i split between close foes. 
-3-4: *Spot* them skulking in shadow and behind cover. Clear Open, Introduce Cover or Dark, then deal 2d6i, plus 1d6i per ambient Cover and Dark, split between close foes. 
-5-6: *Forcefully push* away a focused attack. Deal (3+Cover+Dark)d6i to a target. 
-7+: As 1-2, twice. Add Cover or Dark. 
+3-4: *Spot* them skulking in shadow and behind cover. Introduce Fool or Dark, then deal 2d6i, plus 1d6i per ambient Fool and Dark, split between close foes. 
+5-6: *Forcefully push* away a focused attack. Deal (3+Fool+Dark)d6i. 
+7+: As 1-2, twice. Add Fool or Dark. 
 
 _Settle_
 Crew. Any damage die higher than 4 drops to 4. 
