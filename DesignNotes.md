@@ -41,7 +41,7 @@ Research opportunity for the heroes to figure which combination of threats can s
 
 "Overwhelming threat": Replaces (or adds) any ambient threat with another (Banshee - cold; water elemental - water). 
 
-"Clearing Threat": remove (d4 + 1d) per threat removed 
+"Clearing Threat": remove (d4i + 1d) per threat removed 
 
 "Environmental Threats" : Ambiant threats that renew each mettle if consumed 
 
