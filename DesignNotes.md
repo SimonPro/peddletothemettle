@@ -8,11 +8,20 @@
 - Design de classe assymétriques qui joue avec les un main tree et des speciality
 
 
+
+# Design Philosophy
+
+## JTB 
+- Use ambiant threat to create synergies with teammates
+- Use gear in last resort
+- Martial characters should be as complex / fun  to play as magic users
+    - Martial characters should have as many options as magic users
+    - Martial characters should be as well suited to adress any situation as magic users
+
+
 # CORE GAMEPLAY DESIGN
 
 ## Threat ideas
- - Gravity (Included in "trap" IMO, risk of falling off the cliff)
- - Rubble (Dépend un peu de comment le rubble créé un risque; de pas voir (dark)? de se blesser? (trap))
 
 ## Conditions
 Prefer Daggerheart, One Ring -- very few conditions, 2-3 at most.
@@ -41,34 +50,7 @@ Research opportunity for the heroes to figure which combination of threats can s
 
 "Overwhelming threat": Replaces (or adds) any ambient threat with another (Banshee - cold; water elemental - water). 
 
-"Clearing Threat": remove (d4i + 1d) per threat removed 
-
-"Environmental Threats" : Ambiant threats that renew each mettle if consumed 
-
-
-### Threats ideas
-
-- **Elemental** — The air crackles, ice groans, flames flicker to life. Raw forces surge and lash out without warning.
-- **Dread** — Rot hangs in the air, something stirs beyond death. An unnatural presence seeps in, feeding fear and unease.
-- **Liquid** — Breath fails, lungs burn, the body fights the environment. This is a space that cannot be breathed—only endured.
-
-- **Open** — No walls, no shelter, nowhere to hide. Every movement is exposed, every mistake seen.
-- **Cover** — Enemies vanish behind barriers, striking from safety. Protection turns the battlefield into a game of angles and patience.
-
-- **Gravity** — The edge looms, the drop waits below. One misstep sends you falling into unforgiving impact.
-- **Traps** — A click, a snap, a mechanism springs. Hidden danger waiting for a single mistake.
-- **Debris** — Rubble shifts underfoot, remnants hide what’s useful or dangerous. Improvised tools and unstable ground in equal measure.
-
-- **Fool** — Shapes deceive, senses betray what seems real. Illusions mislead, distort, and lure into costly mistakes.
-- **Blight** — The air turns foul, the touch burns or sickens. Poison seeps in, weakening body and resolve.
-
-### Threat passive actions
-
-- Targeted **Gravity**: at settle, clear gravity and deals 1d6 + (target theat)d 
-- Targeted **Traps**: -1d mettle dice 
-- **Blight** : 1i per at settle
-- Targeted **Open** : attack against have advantage
-- Targeted **Fool**: gain one cover at mettle
+"Clearing Threat": there should be immediate bonus to clear threats 
 
 ## Statistics block
 
@@ -79,14 +61,16 @@ Stress limit: 2
 
 1d6 + lvl difference
 <1: Witness a confused mess. Deal 1d6i to a foe and clear a *threat*. 
-1-2: Remain *steadfast* despite the mad shrieks and rusty knives. Introduce *Dread*, *Cover*, Clear a *threat* Deal 3d6i split between close foes. 
-3-4: *Spot* them skulking in shadow and behind cover. Clear Open, distribute 2 *Cover*, then distribute 2d6i, plus deal 1d6i per *total* Cover and Dark on each *close* foes. 
-5-6: *Forcefully push* away a focused attack. Deal (3+Cover+Dark)d6i to a target. 
-7+: As 1-2, twice. Add Cover or Dark. 
+1-2: Remain *steadfast* despite the mad shrieks and rusty knives. Introduce *Dread*, *Fool*, Clear a *threat* Deal 3d6i split between close foes. 
+3-4: *Spot* them skulking in shadow and behind cover. Clear *Fool*, distribute 2 *Fool*, then distribute 2d6i
+5-6: *Forcefully push* away a focused attack. Deal (3+Fool)d6i to a target, Consume *Fool*. 
+7+: As 1-2, twice.
 
 _Settle_
+Passive deal 1d6i for each *Fool*
 Crew. Any damage die higher than 4 drops to 4. 
 Disbands and flees at 20i or 7 threats. 
+
 
 # CLASS DESIGN
 
@@ -125,24 +109,20 @@ ACTIONS in Battle
 ### Main tree
 Ti coup d'épée bin chien: deal 1d8i
 Remember the training: Clear *Dread*
-Break stuff: convert one ambient threat into an ambiant *Debris* threat
-Pocket "sand": consume a *Debris* to inflict *Open* or *Cover*
-Take cover: consume a *Debris* to remove a damage die
-Taunt: consume a *Debris* to switch a damage die from an ally to self
-Shove: Apply an ambiant thread [*Trap*, *Gravity*, *Debris*, *Liquid*] on a *shovable* creature
+Pocket "sand": Mark supply, inflict *Fool* 
+Take cover: Mark supply, remove a damage die
+Taunt: Switch a damage die from an ally to self
+Shove: Apply an ambiant thread [*Trap*, *Liquid*] on a *shovable* creature
 Cuffs, Tied or Net : Mark supply, inflict *Trap* 
 
-### Wrestler specialty
-Upper cut: Mark *stress* deal 1d4i + inflict *Gravity* (see [this example](https://www.youtube.com/watch?t=40&v=iAME0L8H930))
-Flying Kick: Mark *stress* double gravity 
-Marteau pilon: Mark *stress* deal 1d4i + (Targeted Treat)d on target [Pour plus d'info](https://fr.wikipedia.org/wiki/Piledriver) (e.g. si le mechant à gravity+debri+elemental bin c'Est 1d4 +3d -> 1d10i)
-Ground Pound : Mark *Stress* Ignore targeted *Gravity* effect of settle
+### Berserker
+Break stuff: Mark *Stress*, Clear an ambient ["Trap", "Fool", ...] threat to unmark Supply 
+
 
 ### fencer specialty
-Coup d'épée fancy: Mark *stress*, deal 1d8i + inflict *Open*
-Follow up: Mark *Stress*, deal 1d8i, if target is open inflict *Trap*
-I know where it hurts: Mark *Stress*, if target is *Open* and *Trap* deal 3d8
-
+Coup d'épée fancy: Mark *stress*, deal 1d8i + inflict *Fool*
+Follow up: Mark *Stress*, deal 1d8i, if target is *Fool* inflict *Trap*
+I know where it hurts: Mark *Stress*, if target is *Fool* and *Trap* deal 3d8
 
 ## Elemental Caster (Fire / Ice / Lightning witch)
 
@@ -158,17 +138,17 @@ Knowledge / Perceptiveness / make creative use of a spell.
 Advantage: 
 Study magical items and effects / Ghosts and haunts
 
-Tite attaque avec la tite baguette: Deal 1d4i close or far from you. Inflict *Elemental*. 
+Tite attaque avec la tite baguette: Deal 1d4i close or far from you. Inflict *Cold*. 
 
 ACTIONS in Battle
-Raising the stakes: Add a Ambiant *Elemental* 
-Convert Element: Consume *Elemental* to Inflict *Water*, *Blight* or *Cover*
+Raising the stakes: Add a Ambiant *Cold* or *Fire* 
+Convert Element: Consume *Cold* or *Fire* to Inflict *Water*, *Blight* or *Fool*
 Clairvision : Clear all Targeted *Fool* on an ally
 
 # Ice Mastery
 *Rituals of rime.* 
-Icicle Lance : Mark *Stress*, deal 1d6i per Ambiant *Elemental* threat. Consume all targeted *Elemental* to deal 1d12i per. 
-Freeze motherf-ers: Mark *Stress*, clear all *Cover* from an ally, inflict *Debris* on enemy 
+Icicle Lance : Mark *Stress*, deal 1d6i per *Elemental*. Consume all targeted *Elemental* to deal 1d12i per. 
+Freeze motherf-ers: Mark *Stress*, clear all *Fool* from an ally, inflict *Cold*, *Trap* on enemy 
 
 Mark Supply and spend a short time to conduct an ice- or cold-themed magic ritual. 
  - Add or clear an ambient Cold, Cover, or Water in the vicinity. 
@@ -179,8 +159,8 @@ Do a Test if the application is dubious, or the effect stronger than described h
 
 # Fire Mastery
 *Rituals of boomchakalaka.* 
-Bomba : Mark *Stress*, deal 1d6i per targeted *Elemental* to all target  
-Blaze it: Mark *Stress*, clear all *Cover* from an ally, inflict *Elemental* on enemy 
+Death From Above : Mark *Stress*, deal 3d12 to an enemy with *Fire* and *Fool* 
+Blaze it: Mark *Stress*, clear all *Fool* from an ally, inflict *Fire*, *Fool* on enemy 
 
 Mark Supply and spend a short time to conduct an fire-themed magic ritual. 
  - Allow players to eat fiery peppers without consequences
@@ -188,15 +168,3 @@ Mark Supply and spend a short time to conduct an fire-themed magic ritual.
  - Learn to juggle with fire
  - or whatever the ice dude does, but with fire 
 Do a Test if the application is dubious, or the effect stronger than described here. 
-
-# Lightning Mastery
-*Rituals of zipzap.* 
-Death From Above : Mark *Stress*, if an ambiant *Elemental*, deal 3d12 to all enemy inflicted with *Elemental* and *Gravity* 
-Say cheeze for the camera: Mark *Stress*, clear all *Cover* from an ally, inflict *Open* on enemy
-
-Mark Supply and spend a short time to conduct an fire-themed magic ritual. 
- - Be "speed", So stuff, but real fast 
- - or whateve the other 9/5 fire / ice jerk do, but with lightning, and faster
-Do a Test if the application is dubious, or the effect stronger than described here. 
-
-
