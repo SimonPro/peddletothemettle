@@ -50,7 +50,6 @@ Research opportunity for the heroes to figure which combination of threats can s
 
 "Overwhelming threat": Replaces (or adds) any ambient threat with another (Banshee - cold; water elemental - water). 
 
-"Clearing Threat": there should be immediate bonus to clear threats 
 
 ## Statistics block
 
