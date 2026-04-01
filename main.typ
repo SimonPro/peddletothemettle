@@ -1,5 +1,5 @@
 
-= PEDDLE TO THE MEDDLE
+= PEDDLE TO THE METTLE
 
 (Tentative name and introduction.)
 
@@ -44,7 +44,7 @@ A test has a *difficulty*, often set by the game master, per the following table
 The number should reflect the difficulty for a typical adult person, not that hero in particular. 
 
 == Rolling the test
-The player rolls 2d12 and compares both results to the difficulty. 
+The player rolls two twelve-sided dice (2d12) and compares both results to the difficulty. 
 
 If they are lower than the difficulty, the hero *fumbles (\--)*. 
 They do not get what they want, and the situation becomes worse. 
@@ -122,7 +122,7 @@ Raiding a poor farmer's hovel might fetch one supply too, as would hunting a dee
 
 
 = THREATS
-Fire, Water, Dark, Trap, Cold, Cover, Open, Dread, Blight, Fool
+Fire, Water, Dark, Trap, Cold, Open, Dread, Blight, Fool
 
 === Wording
 Ambient threat: Threats that are *ambient* reflect environmental conditions. 
@@ -142,10 +142,12 @@ Fiction first: Notice the lack of a rule on darkness and visibility in "Dark 3".
 
 === Definitions for ambient threats. 
 Fire
-1 Intense heat, contained bonfire
+1 Noon, intense heat, contained bonfire
 2 Uncontrolled open fires
 3 Lava pit, forest fire
 (Red flame)
+
+On someone: On fire, heatstroke, dangerous heat
 
 Water
 1 Marsh, intense humidity, rain
@@ -153,11 +155,15 @@ Water
 3 Underwater
 (Blue drop)
 
+On someone: Wet, currents, swimming
+
 Dark
 1 Darkened corners to skulk in, starlit night, stormy weather
-2 Candlelit darkness, storm causing terrible visibility
+2 Candlelit darkness, deep fog
 3 Pitch black
-(Crescent moon)
+(Crossed eye)
+
+On someone: Unable to see, knocked on the head. 
 
 Trap
 1 Brambles, slick stones, danger of light injury
@@ -165,17 +171,15 @@ Trap
 3 Deadly hidden mechanical traps, cliffside in deep snow, danger of sudden death
 (Steel trap)
 
+On someone: Nearby trap, impediments due to a trap
+
 Cold
-1 Near or at freezing
-2 Deep snow, well below freezing temperature
+1 Night, near or at freezing
+2 Deep snow, below freezing temperatures
 3 Blizzard, arctic cold
 (White snowflake)
 
-Cover
-1 Wooded area, savannah, fog, in a busy marketplace
-2 Narrow alleyways, jungle, cluttered warehouse, in a packed crowd
-3 Highly complex environments, difficult to navigate with many obstacles
-(Crossed out eye)
+On someone: Cold. 
 
 Open
 1 Deserted street, exposed path, little to no vegetation or clutter
@@ -183,11 +187,15 @@ Open
 3 Large, flat open field or plaza
 (Crossed out shield)
 
+On someone: Off guard, bent armor, isolated. 
+
 Dread
 1 Silent cave, throne room, cemetary, thunderstorm
 2 Haunted or sacred places, battlefield
 3 Necropolis, blood rain, plainly horrific scenes
 (Black skull)
+
+On someone: Panicked, afraid, humiliated. 
 
 Blight
 1 Poisonous mushrooms, thin air, in a tannery
@@ -195,84 +203,15 @@ Blight
 3 Toxins that quickly lead to death
 (Green mushroom)
 
+On someone: Poisoned, sick. 
+
 Fool
-1 Surprise, deception, altered mental states, simple illusions
-2 Enchantments, complex illusions, dense fog
-3 Dreams, strong hallucinogens
+1 Surprise, deception, simple illusions, confusing environments such as a busy marketplace
+2 Enchantments, complex illusions, cluttered warehouse or extremely narrow alleyways
+3 Dreams, strong hallucinogens, incredibly complex environments
 (Question mark)
 
-== Example characters
-
-ALICE the FIGHTER
-Injury limit: 20
-Stress limit: 4
-
-TESTS
-Reroll 1, 2: 
-Strength / Speed and mobility / make creative use of weapons. 
-
-Advantage: 
-Carpentry, Sleight of hand
-
-Disadvantage: 
-Bookish
-
-ACTIONS in Battle
-Move: Get somewhere far. 
-Interact: With your equipment or the environment. 
-Defend: Reroll one damage die on you OR Shift a damage die from a close ally to you.
-Introduce a threat. The best suited one based on your description. 
-Clear a threat. The best suited one based on your description. 
-(Sword) Attack: Deal 1d8i close to you. 
-
-PASSIVE effects
-(Shield) When you Defend, you can pick both options or the same one twice. 
-+ Mark Stress to also Clear one damage die, up to 5. 
-
-
----
-BOB THE WIZARD (ICE WITCH)
-Injury limit: 16
-Stress limit: 4
-
-TESTS
-Reroll 1, 2: 
-Knowledge / Perceptiveness / make creative use of a spell. 
-
-Advantage: 
-Study magical items and effects / Ghosts and haunts
-
-Disadvantage: 
-Stamina
-
-ACTIONS in Battle
-Move: Get somewhere far. 
-Interact: With your equipment or the environment. 
-Defend: Reroll one damage die on you OR Shift a damage die from a close ally to you.
-Introduce a threat. The best suited one based on your description. 
-Clear a threat. The best suited one based on your description. 
-(Wand of icy gusts) Attack: Deal 1d4i close or far from you. Mark Stress to introduce Cold. 
-Cast a spell. See below. 
-
-SPELLS
-*Mastery of ice.*
-Pick one per action spent: 
- - Introduce Cold
- - Introduce Water
- - Clear a relevant threat on you or someone else by manifesting or reshaping snow, ice or freezing water. 
-
-*Icicle lance.*
-Mark Stress. Deal 1d6i up to far per action spent. Reroll each die until the result exceeds Cold. 
-
-*Rituals of rime.* 
-Mark Supply and spend a short time to conduct an ice- or cold-themed magic ritual. 
- - Add or clear an ambient Cold, Cover, or Water in the vicinity. 
- - Allow someone to ignore Cold for a day. 
- - Grant the heroes the ability to walk unimpeded over snow for a day. 
- - Attempt to freeze a calm river, melt huge chunks of ice away, or similar. 
-Do a Test if the application is dubious, or the effect stronger than described here. 
-
-
+On someone: Foes hidden from you, wrong assumptions about what is real
 
 == Skills?
 
@@ -294,12 +233,7 @@ You have Advantage on tests: (Pick 3)
 - To spot and assess foes. 
 - To make creative use of any weapon. 
 
-You have Disadvantage on these tests (Pick 1): 
-- Of stealth and subtlety
-- To charm, entertain or lie
-- To do something bookish
-
-*Sturdy.* Add 5 to your injury limit. 
+*Sturdy.* Increase your injury limit by 5. 
 
 *Favored weapon.* One weapon in your possession is your favored weapon. You like it, maybe you named it. 
 When you attack with it, also roll a six-sided die, preferably one with a unique color or style --- this is your _favored weapon die_. 
@@ -322,12 +256,6 @@ You have Advantage on tests: (Pick 3)
 - Of perceptiveness. 
 - 
 - To make creative use of a spell. 
-
-You have Disadvantage on these tests (Pick 1):
-- Of strength. 
-- Of stamina. 
-- Of speed and mobility. 
-
 
 *Spellbook.*
 Grab a stack of index cards, sticky notes or a small notebook to be your _spellbook_. 
@@ -431,10 +359,10 @@ Reroll 1s on tests of Mettle.
 
 ROGUE
 (+1d12) Dodge. 
-Advantage to Mettle under ambient Cover, Dark or Fool. 
-Evade. Mark stress to clear one damage die. 
+Advantage to Mettle under ambient Dark or Fool. 
+Evade. Mark Stress to clear one damage die. 
 
-Sneak attack. If you next action this turn deals any damage, also deal 1d12d if the target has Cover, Dark or Fool. 
+Sneak attack. If you next action this turn deals any damage, also deal 1d12d if the target has Dark or Fool. 
 
 ILLUSIONIST
 Mirrored Trio: Mark Stress to gain 3 Images. Mark an Image to clear a damage die showing an odd result. 
@@ -457,7 +385,7 @@ Special test:
 Fumble; 1 action
 Manage; 2 actions (Mark Stress to turn into Success is possible)
 Succeed; 3 actions
-Difficulty is the foe with the highest difficulty, even if it is defeated in the scene. 
+Difficulty is the foe with the highest difficulty. 
 
 Can have a unique description, but is just "Be ready to fight" by default. 
 
@@ -470,24 +398,23 @@ Move: Get somewhere far.
 
 Interact: With your equipment or the environment. 
 
-Defend: Reroll a damage die on you OR Shift a damage die from a close ally to you. 
+Defend: Reroll a damage die on you, keeping the new result if lower OR Shift a damage die from a close ally to you. 
 
 Attack. Deal 1d4i close to you, with your fists or an improvised weapon. 
-For the second or later attack made each round, roll the damage die twice and keep the lowest result. 
 Weapons grant an Attack ability that overrides this one. 
+/* No limit to multiple attacks, just have to make introducing or clearing threats a priority. */
 
 Introduce a threat. The best suited one based on your description. 
 
-Fire - Smash them with a burning torch. 
-Water - Splash water at them.  
-Dark - Throw pocket sand, blinding them. 
-Trap - Lure them to a dangerous spot. 
-Cold - Rip off their fur cloak. 
-Cover - Place yourself behind cover from them. 
-Open - Knock down cover around them. 
-Dread - Scare or humiliate them. 
 Blight - Let your poisoned weapon take effect. 
+Cold - Rip off their fur cloak. 
+Dark - Throw pocket sand, blinding them. Position yourself in shadows. 
+Dread - Scare or humiliate them. 
+Fire - Smash them with a burning torch. 
 Fool - Make a feint. 
+Open - Place yourself in cover from them, shove them prone, reposition to flank them. 
+Trap - Lure them to a dangerous spot. 
+Water - Splash water at them.  
 
 Clear a threat. Based on your description, which must be justified in the fiction and could be subject to a test when far fetched. 
 
@@ -523,7 +450,7 @@ Wand of icy gusts
 As wand, and mark stress to add Cold (up to 1). 
 
 Standard
-Rally. Mark stress to grant all heroes advantage on their Mettle roll. Take this action when it is rolled, and it counts as your first one this round. 
+Rally. Mark Stress to grant all heroes advantage on a test of Mettle. Take this action when it is rolled, and it counts as your first one this round. 
 _A banner or other ostentatious symbol, meant to strengthen resolve and serve as an impressive display._
 
 Magical trinket
@@ -566,7 +493,7 @@ Don't track arrows, unless they have a special effect.
 Fighter. 
 Roll an attack, reroll any one die. 
 
-Blindfight: Clear all Cover threats. 
+Blindfight: Clear all Dark threats. 
 Tough: +1 injury limit
 Intercept; at resolve, bring any number of "1s" to you from close range. 
 
