@@ -135,7 +135,7 @@ Cuffs, Tied or Net : Mark supply, inflict *Trap*
 ### Wrestler specialty
 Upper cut: Mark *stress* deal 1d4i + inflict *Gravity* (see [this example](https://www.youtube.com/watch?t=40&v=iAME0L8H930))
 Flying Kick: Mark *stress* double gravity 
-Marteau pilon: Mark *stress* deal 1d4i + (Targeted Treat)d on target [Pour plus d'info](https://fr.wikipedia.org/wiki/Piledriver)
+Marteau pilon: Mark *stress* deal 1d4i + (Targeted Treat)d on target [Pour plus d'info](https://fr.wikipedia.org/wiki/Piledriver) (e.g. si le mechant à gravity+debri+elemental bin c'Est 1d4 +3d -> 1d10i)
 Ground Pound : Mark *Stress* Ignore targeted *Gravity* effect of settle
 
 ### fencer specialty
