@@ -12,7 +12,8 @@
 # Design Philosophy
 
 ## JTB 
-- Use ambiant threat to create synergies with teammates
+- Optimize synergy and teamwork
+    - Use ambiant threat to create synergies with teammates
 - Use gear in last resort
 - Martial characters should be as complex / fun  to play as magic users
     - Martial characters should have as many options as magic users
