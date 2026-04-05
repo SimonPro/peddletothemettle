@@ -36,7 +36,7 @@ Tough hide: Any damage die of 2 or lower is ignored.
 
 *Goblin crew* (Level 1, affinities Dark, Fool)
 Difficulty 4
-Stress limit: 2
+Stress limit 2
 Ignore threats that only can apply to one goblin. 
 
 1d6 + lvl difference
@@ -48,9 +48,21 @@ Ignore threats that only can apply to one goblin.
 
 _Settle_
 Hidden blades: Passive deal 1d6i for each *Fool*
-Slipery : Clear *trap* 
+Slipery : Clear *Trap* 
 Crew. Any damage die higher than 4 drops to 4. 
 Disbands and flees at 20i or 7 threats. 
+
+*Mad alchemist* (Level 2, affinities Blight, Trap)
+Difficulty 4
+Stress limit 2
+Accompanied by 1d4 large glass *vats* of toxic sludge. 
+Any damage die of 3 or more on a *vat* shatters it, adding Blight or Trap to targets close to it, and introducing ambient Blight. 
+
+1d6 + lvl difference
+
+
+_Settle_
+Falls into a comatose state at 15i or 7 threats except Blight. 
 
 
 *Venomous dragon*
@@ -64,7 +76,7 @@ Mettle
 Stand still, buffeted by its wings. Hold your breath through toxic fumes. 
 
 Act
-Inhale. Allows one use of Exhale. 
+Inhale. Add Dread to heroes that fumbled the Mettle test. Allows one use of Exhale. 
 Blighted breath. Exhale, deal 2d12i and add Blight to one target per action spent. 
 Sickening roar. Exhale, heroes with Blight lose one action. 
 Venomous claws. 2d8 split between close foes, add Blight on 6 or more. 

@@ -53,7 +53,12 @@ a roll can benefit from *Advantage* or *Disadvantage*.
 Roll an additional twelve-sided dice beyond the first two, and discard the highest (Disadvantage) or lowest (Advantage) roll(s) until two dice remain. 
 More dice can be rolled if there are multiple reasons for (Dis)Advantage, and they cancel each other out when they both apply. 
 
-/* What will scale? What should improve per level? Not damage, not roll results, ... */
+=== Overlevel
+/* What will scale? What should improve per level? Not damage, not roll results, ... so we need a mechanic. */
+When a hero attempts a test and the Difficulty is lower than their level, mark Stress to gain advantage. 
+You can do this multiple times on the same test. 
+(Obviously useless at lower levels, but is key at higher levels.)
+
 
 = THREATS
 /* Fire, Water, Dark, Trap, Cold, Open, Dread, Blight, Fool */
