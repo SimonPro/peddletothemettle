@@ -5,7 +5,7 @@ Hoplites. Vikings. Legionaries. Immortals. Samurai. Eagle warriors.
 Thousands of years of real life history to pull inspiration from. 
 Play this class to dish it out and take it. 
 
-You have Advantage on tests: (Pick 3)
+Reroll 1s and 2s on tests: (Pick 3)
 - Of strength. 
 - Of stamina. 
 - Of speed and mobility. 

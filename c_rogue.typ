@@ -52,3 +52,5 @@ Musical instrument; can be super simple, as little as a spoon and three glasses 
 Sing, also.  A sound board. 
 Or songs, or whatever. 
 
+Catharsis: When you make a reliable test and a result is 12, clear a Stress. If both are 12, clear all Stress. 
+
