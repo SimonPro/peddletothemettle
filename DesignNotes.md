@@ -11,6 +11,10 @@
 
 # CORE GAMEPLAY DESIGN
 
+Player tip: Reliable tests are only relevant on low rolls, so just keep them in mind when you see a 1 or 2. 
+If you do, and the situation is relevant, it's a good idea to give a short narrative explanation as you reroll the die. 
+_My hero recoils in fear for a split second, but --- I'll reroll the die; much better --- just lowers their visor and says "you should be afraid of *me*, monster"._
+
 ### Threat discard pile
 
 Actions de Settle sur les threats: À remettre dans des habiltés spécifiques. Faut créer un incitatif à clearer les threats. 

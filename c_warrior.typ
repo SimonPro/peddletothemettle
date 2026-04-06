@@ -37,13 +37,6 @@ To me!: Allies that are far can get close to you.
 
 Reroll 1s on tests of Mettle. 
 
-== Berserker
-
-If you bring something for the dungeon master to drink, gain something. 
-
-Drinking mechanic: "Take a swig"/"Down it"/"Refill your cup"
-Have specific people take a swig for a benefit? Have everyone take a swig. 
-
 Massive weapon.
 Damage die: 1d10 close
 (+1d12) Break something down. 

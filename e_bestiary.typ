@@ -6,10 +6,11 @@ DESIGN PRINCIPLES
 
 Monster actions are determined by rolling 1d6 on their action table, plus or minus their level difference with the heroes. 
 
+Monsters don't have Stress unless they are basically bosses/dragons/etc. 
+
 "My monster needs to do something else": 
 - Do one of interact, move, introduce a threat, clear a threat. 
 - Reduce their action roll result by 2 for each such action. 
-- You can spend stress to avoid reducing the action roll result. 
 
 Weakness threat: baisse le dé d'attaque ("slow the enemy")
  - Idéalement les threats s'appliquent autant à l'environnement qu'à une situation pour une target. Donc "weakness" serait trop conceptuel. 
@@ -36,14 +37,13 @@ Tough hide: Any damage die of 2 or lower is ignored.
 
 *Goblin crew* (Level 1, affinities Dark, Fool)
 Difficulty 4
-Stress limit 2
 Ignore threats that only can apply to one goblin. 
 
 1d6 + lvl difference
-\<1: Witness a confused mess. Deal 1d6i to a foe and clear a *threat*. 
-1-2: Remain *steadfast* despite the mad shrieks and rusty knives. Introduce *Dread*, *Fool*, Clear a *threat* Deal 3d6i split between close foes. 
-3-4: *Spot* them skulking in shadow and behind cover. Clear *Fool*, distribute 2 *Fool*, then distribute 2d6i
-5-6: *Forcefully push* away a focused attack. Deal (3+Fool)d6i to a target, Consume *Fool*. 
+\<1: Witness a confused mess. 1d6i and clear a threat. 
+1-2: Remain *steadfast* despite the mad shrieks and rusty knives. Introduce Dread or Fool, clear a threat, split up 2d6i.
+3-4: *Spot* them skulking in shadow and behind cover. Split up 2 Fool and 3d6i. 
+5-6: *Forcefully push* away a focused attack. (3+Fool)d6i, consume Fool. 
 7+: As 1-2, twice.
 
 _Settle_
@@ -68,13 +68,14 @@ Falls into a comatose state at 15i or 7 threats except Blight.
 *Venomous dragon*
 Difficulty 8; hide from 10. 
 Flies away to its lair at 30i, dies at 50i. 
-Stress limit: 4
+Stress limit: 4 
 Passive. Ignores Blight. 
 Gets an additional action for each foe that fumbles its Mettle test. 
 
 Mettle
 Stand still, buffeted by its wings. Hold your breath through toxic fumes. 
 
+/* TODO Convert to Dragonbane table. */
 Act
 Inhale. Add Dread to heroes that fumbled the Mettle test. Allows one use of Exhale. 
 Blighted breath. Exhale, deal 2d12i and add Blight to one target per action spent. 

@@ -6,17 +6,23 @@ Play this class to get up to all sorts of shenanigans.
 
 *Suit up.*
 Choose a suit: 
- - *Hearts*. Gain Advantage on tests to _charm into revealing secrets_. 
+ - *Hearts*. Gain Advantage on tests to _seduce into revealing secrets_. 
+ _Darling, I'm so sweet and flush with gold they call me honeypot._
  - *Spades*. A dubious item, a worrying blood smear, a corpse --- there is always a convenient spot to bury evidence. 
- When you take a short time to "bury" something, only an extremely thorough search reveals anything. 
+ When you take a short time to _bury something_, only an extremely thorough search reveals anything. 
+ _Why yes, of course there was a giant, inconspicuous rubbish bin just beneath the castle window._
  - *Diamonds*. Whenever the heroes gain a sum of gold, gain 1 more or 20% more, whichever is higher. 
- - *Clubs.* Gain advantage on tests to _threaten with violence and guard doors_. 
+ - *Clubs.* Gain Advantage on tests to deal with the patrons of any tavern, inn, parlor or similar establishment. 
+ If you _buy everyone a round_ (spend gold as appropriate), at least a few of them become downright friendly with you. 
+_You can find me in the tavern, it's my birthday._
 
 *Lucky.*
 Get a regular set of playing cards, or repurpose some index cards. 
 Put together a small deck: Cards of your suit (Ace, 2 to 10, Knave, Queen, King) and two jokers, for a total of 15 cards. 
 Match the Queen and King to two other heroes in your group. 
 Remove one or both from the deck if there are fewer than two other heroes. 
+
+/* Or rework so that the knave doesn't roll 2d12, but instead 1d12 AND flips a card Ace-2 to 10-Knave + Joker. Knave counts as 12. Joker counts as any number you want. */
 
 Each time the play session begins, shuffle the deck then leave it facedown in front of you. 
 *Whenever you roll a test, draw a card.* Reshuffle once they are all drawn. 
@@ -28,23 +34,27 @@ Queen or King: Given you can describe a reasonable way in which the matched hero
 Joker: Turn a twelve-sided die of your choice to a 12. 
 
 
-ROGUE
-(+1d12) Dodge. 
-Advantage to Mettle under ambient Dark or Fool. 
-Evade. Mark Stress to clear one damage die. 
+Evasion. Gain Advantage on tests to dodge out of the way. You can mark Stress to clear one damage die on you, up to 5. 
+Upgrade: Die of any value, not just up to 5. 
 
-Sneak attack. If you next action this turn deals any damage, also deal 1d12d if the target has Dark or Fool. 
+At home in the shadows. Gain Advantage on tests of mettle under ambient Dark or Fool. 
+Upgrade. Dark or Fool threats on you also grant Advantage, one for one. 
 
-Rogue. 
-Double daggers. 
-(+1d12) Perform a knife trick. 
+Confounding attacks. 
+When you attack, mark Stress to do one: 
+ - introduce one of Dark, Open or Fool. 
+ - clear Dark, Open or Fool on the target to also roll 1d12i. 
+Upgrade: Under ambient Dark, Open or Fool, 2d12i. 
+
+Reliable test. Creatively use throwing knives with incredible accuracy. 
+
 (Ability) Double slice. Roll 2d4 damage on a foe close to you. 
-(Ability) Deadly feint. Apply 1 Fool, or mark stress to roll 1d4 damage for each Fool. 
-Dirty tricks. 
-When you Introduce a threat, mark Stress to also add one of Dark, Open, or Fool. 
+(Ability) Deadly feint. Apply 1 Fool, or mark stress to roll 1d4i for each Fool. 
+
+When you flip 2-10, the card value counts as Advantage; you can keep the card result as though it were a die result. 
 
 == Bard
-Spout lore: Introduce a threat with your first Mettle test each battle. 
+Spout lore: Introduce a threat with your first test of mettle test each battle. 
 Dirge: Add an ambient Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 
 
 

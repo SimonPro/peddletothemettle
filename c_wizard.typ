@@ -29,8 +29,8 @@ When rules allow you to *mark* something in the spellbook, write it down.
 When you *clear*, rip the sticky note, erase or cross it out in the notebook --- get rid of it. 
 
 Arcane Bolt
-Mark Stress, roll 1d6i per action spent. 
-Mark this foe's name in your spellbook. Clear it to gain Advantage on a test related to a creature with this name. 
+Mark Stress, spend 2 actions. 
+2d6i and mark the target's species in your spellbook (human, bear, griffin, etc). Clear it to gain Advantage on a test related to a creature of the same kind. 
 
 ILLUSIONIST
 Mirrored Trio: Mark Stress to gain 3 Images. Mark an Image to clear a damage die showing an odd result. 

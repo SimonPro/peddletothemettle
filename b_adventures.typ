@@ -2,6 +2,21 @@
 /* Main adventuring rules, environments, ambient threats, resupplying, etc. 
  All non-core rules. */
 
+
+/*
+Puisque l'idée du jeu, c'est de faire face à des environnements toujours plus rudes (plus de threats) et y vaincre des monstres, 
+on pourrait associer les 12 niveaux à 12 "gradations" d'environnements. 
+
+Traverser les 12 cercles de l'enfer pour le fuir? 
+Se rendre au coeur de la distorsion qui détruit le monde en 12 étapes?
+Exploration vers des contrées dangereuses et inconnues (en 12 étapes)?
+Les 12 travaux d'Hercule en version ttrpg? 
+Explorations extraplanaires toujours dans des environnements plus extrêmes?
+
+On pourrait donc enlever le focus de l'or/richesse/marchander. 
+
+*/
+
 Do not precisely measure time or distances. 
 When rules are concerned, there are only three distances: 
  - *Close.* "A few steps away", "in the room", "across the street". 
