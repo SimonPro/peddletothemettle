@@ -5,7 +5,7 @@ Pour pettle, le space que j'aimerais bin explorer c'est des effets qui trigger a
 
 qqch qui impact ton mettle  (par exemple donner desavantage, augmenter / réduire de DD pour le test) - Distracted
  
-qqch qui altère le tally des threat quand on fait le calcul pour des effets (reduire par un, x2, ignore)  - Permeable
+qqch qui altère le tally des threat quand on fait le calcul pour des effets (x2 / reduire par un  / ignore) - (Permeable / Used / Immuned) to <threat>
 
 qqch qui draine ton stress plus vite (c'est pas clean clean dit de meme - j'ai une intuition pkoi tu as mis un petit amount of stress - tout coûte 1 quick math ) 
 
@@ -30,7 +30,7 @@ Chaque personne / monstre aurait ses combos? La recette est fixed ?
 - Les character sheet / playbook des PbtA et BitD
 - Les "track" de City of Mist 
 - Les descriptors de Cypher
-- Ton design de track de Primeevil
+- Ton design de track de Primeordial
 
 ## Design ideas
 
@@ -51,8 +51,7 @@ Ca vient avec 3-4 options pour donner de la flavor mais c'est somewhat assez sym
     - Truth that hurt - 1d4i ranged
     - you're so previsible : remove an attack dice
 
-Après, pour ton premier level tu choisi un option de spécialisation parmis les 5-6 track qui existe pour ton base character. 
-Chaque option vient avec 5-6 track que tu dois spécialiser pendant au moins X level. Pour chacun de ses **X** level,  tu choisi genre a chaque level **n** habilités parmi les **m** possibles (à la city of mist). et après les X level tu peux prendre une autre track. Ca permettrait à la fois d'avoir des track courtes cohésives et d'explorer des design plus complexe et focus.
+Après, pour ton premier level tu choisi un option de spécialisation parmis les 5-6 track qui existe pour ton base character - que tu dois spécialiser pendant au moins X level. Pour chacun de ses **X** level,  tu choisi genre a chaque level **n** habilités parmi les **m** possibles (à la city of mist). et après les X level tu peux prendre une autre track. Ca permettrait à la fois d'avoir des track courtes cohésives et d'explorer des design plus complexe et focus.
 
     - Paladin
         - Concept de protégé,  
@@ -67,8 +66,14 @@ Chaque option vient avec 5-6 track que tu dois spécialiser pendant au moins X l
     - Duelist
         - ??
 
-Ya surement aussi des concept des  
 
-## Progression
+# Progression
 
-Chaque perso vient avec une drive et un flaw, et chaque track vient avec un Modus Operandi. Un genre de "what would a X do" que tu dois le customiser un peu pour flavorer ton personnage. Utiliser ta drive, ton flaw ou ton Modus Operandi te donne 1 XP. Pretty much it. 
+## Design philosophie 
+- XP for drama, action, ressource spending.
+
+## Basic Implementation 
+Chaque perso vient avec une drive et un flaw, et chaque track vient avec un Modus Operandi. Un genre de "what would a X do" que tu dois le customiser un peu pour flavorer ton personnage. Utiliser ta drive, ton flaw ou ton Modus Operandi te donne 1 XP. 
+
+Quand tu spend un stress, 1 XP, Quand tu spend 1 supply, 1 XP. Quand tu spend do gold pour faire du carousing, 1 XP (ou voir les tables de carousing de shadowdark)
+Pas de XP par combat. 
