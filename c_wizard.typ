@@ -38,6 +38,23 @@ Mirrored Trio: Mark Stress to gain 3 Images. Mark an Image to clear a damage die
 ABJUROR
 Magnetic field. (Passive) Whenever a damage die is rolled on you due to a metal weapon, arrowhead or similar, you can decide to reroll it once. 
 
+Animal friend/Familiar. Magically bonded to a small animal; see through its eyes, bond to another in downtime. Stays in your vicinity. 
+
+Scholar of ancient languages. 
+You can read and understand any language, however ancient and dead. 
+You can mark stress to speak a few simple words in any language. 
+
+You are also roughly understood by elementals, the undead, and other strange and otherwise non-verbal creatures. 
+This is sufficient for simple things like _go away_ or _you cannot pass_, but it does not make them any more reasonable or friendly. 
+You can try though. 
+_Back! The ancient tongues summon you back to the underworld, creature of the babhla leithris! Loqueris latine! Milás elliniká!_
+
+Reputed scholar. 
+Roll tests to deal with scholars, priests, lorekeepers, librarians and similar folk with Advantage. 
+Anything they sell, you pay half as much for. 
+_You're Kevin the wizard? Of _Treatise on the winter solstice behavior of juvenile green-striped babosaurs_ fame? I'm a fan!_
+
+
 Lorebook. 
 (+1d12) Recall lore. 
 (Ability) Attack. Roll 1d4 damage on a foe close to you. 
@@ -63,3 +80,14 @@ Bonfire. Manifest a roaring fire, but mark stress absent suitable fuel.
 Clear an ambient Cold or Dark, and add ambient Fire. 
 Roll 1d4 damage per Fire to a close target. 
 Fireball (far). Roll up to 8d6 damage, split between your target and others close to it. No more than 3d6 per target. Add 2 ambient Fire. 
+
+== Seer
+
+Nudge fate. Mark stress to reroll one die of a test, whoever attempts it. 
+
+Mark stress to open your third eye for a short time. 
+Ignore ambient Dark and Fool while it is open. 
+You see through obscurity, foliage, rain, fog, curtains, and so on. Opaque objects still block your sight. 
+
+You can draw or carve eye shapes on things around you, like a stone or tree. 
+Unless it is erased or marred, you can mark Stress to see through such an eye in your vicinity for a moment. 

@@ -70,6 +70,9 @@ Who will pronounce vague and barely actionable advice using butterfly metaphors?
 Who will rid us of the bandits in the woods by nicely asking some wandering bears to murder them?
 The druid. 
 
+Reliable tests
+Influence animals
+
 *Seed faith.*
 Procure a bag of peanuts, cashews or other crunchy delight. 
 If you can easily procure them each session, good berries are also acceptable. 

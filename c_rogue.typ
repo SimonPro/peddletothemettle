@@ -53,6 +53,12 @@ Reliable test. Creatively use throwing knives with incredible accuracy.
 
 When you flip 2-10, the card value counts as Advantage; you can keep the card result as though it were a die result. 
 
+Acrobat. Roll tests to perform acrobatic feats such as balancing, moving over slippery and precarious terrain, or falling gracefully with Advantage. 
+You also gain the ability to clamber up even vertical surfaces a close distance up at speed, and to ignore any hindrance posed by obstacles you can vault over or through such as railings and windows. 
+_You are encouraged to mutter parkour! parkour! as you roll._
+
+Skulker. Roll tests to sneak around with Advantage. You make no sound when you move, unless you're in a rush. 
+
 == Bard
 Spout lore: Introduce a threat with your first test of mettle test each battle. 
 Dirge: Add an ambient Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 

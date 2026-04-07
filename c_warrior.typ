@@ -68,3 +68,44 @@ Death by a thousand threats
 Mark stress. 
 Roll 1d12. If the result on that die does not equal or exceed the number of threats on the foe, repeat. 
 Continue to add dice one at a time until a result equals or exceeds threats. 
+
+== Champion
+_Paladin, Champion, Templar_
+
+In downtime, you can designate another hero as your _protégé_, someone you protect. 
+You must sit next to them in person at the table, so get their approval first and make sure you both enjoy the idea. 
+Your protégé might be a muse, a romantic interest, or just the bookish wizard you are fond of. 
+
+Your characters gains a reliable test with rerolls on 1 and 2: _Safeguard your protégé._
+
+Draw them away. With each action spent to attack a foe, you can shift a damage die or threat dealt by them to your protégé over to you. 
+
+(Implement fun things with the protégé here.)
+
+== Guardian
+
+When you wear "heavy armor", increase your injury limit by X. 
+
+Tortoise stance. Whenever damage is dealt to you from far range or further, any die above 4 is reduced to 4. 
+This also applies when you bring a damage die to you by defending someone else. 
+_Arrows filled the sky, but their arc ended harmlessly on her raised shield._
+
+
+== Duelist
+Just as you attack a foe with a melee weapon, mark stress to make it your _dueling foe_. 
+You can only have one dueling foe at a time. 
+
+Gain a reliable test with rerolls on 1 and 2: _Attack your dueling foe_. 
+
+Weaklings. If a foe's difficulty is lower than your level, do not mark stress to make them your dueling foe. 
+
+== Skills
+
+Strong(wo)man. Roll to lift, push, hold and carry heavy things with Advantage, and to crack things open with brute force. The party can carry 5 more Supply. 
+
+Climber. Roll to climb, hold on tight and scramble over terrain with Advantage. 
+
+Swimmer. Roll to swim with Advantage. You can hold your breath for an impressive amount of time. 
+
+Sprinter. Roll to get somewhere fast with Advantage. 
+
