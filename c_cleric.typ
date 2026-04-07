@@ -37,12 +37,65 @@ Object you wield - a religious icon, a musical instrument, a sprig of mistletoe.
 When you wield it, reroll 1 and 2 on tests relevant to your domains. 
 
 
+== Shaman
+/*
+Drinking mechanic: "Take a sip"/"Down it"/"Refill your cup"
+Have specific people take a swig for a benefit? Have everyone take a swig. 
+*/
+
+It is also your responsibility to keep everyone at the table well hydrated. 
+We'll get to that. 
+
+*Pour one for good luck.*
+When you bring the game master something they enjoy drinking at the beginning of a game session, 
+you can ask them to grant you Advantage on any test twice during that session. 
+
+_I empty my cup on the ground as libation, so the ancestors bless me._
+
+*Blessing of the spirits.*
+When another hero is about to attempt a test, you can bless them with animalistic magic. 
+If they _take a sip_, they gain Advantage. 
+
+_You *will* make this leap, for you are meek and jumpy as the gazelle, my friend. Take my blessing._
+
+
+
 == Druid
 This class may contain nuts. 
 Seriously, if there are nut allergies at your table, substitute them with candy or play something else. 
 
-Procure a bag of peanuts, cashews or other crunchy delight. 
-If you can easily procure them each session, berries are also acceptable. 
+Druids are mystics of the wild, of pastoral life. 
+Who will choreograph the rain dance? 
+Who will pronounce vague and barely actionable advice using butterfly metaphors?
+Who will rid us of the bandits in the woods by nicely asking some wandering bears to murder them?
+The druid. 
 
-You dispense blessings: metaphorical (advice) or physical (magical berries). 
-Your nuts also count as threat tokens?
+Reliable tests
+Influence animals
+
+*Seed faith.*
+Procure a bag of peanuts, cashews or other crunchy delight. 
+If you can easily procure them each session, good berries are also acceptable. 
+
+When a rule lets you _hand out a seed_, give out one such delight to the player in control of the relevant target. 
+When that player eats it, their character can immediately clear stress, or clear 3 injuries. 
+
+As an action, you can mark stress to hand out a seed to someone close. 
+
+You can keep a seed for yourself too. 
+Seeds lose their magical power after a short time, so eat them quickly to benefit. 
+
+*Features*
+Care for the flock. Mark Supply. Hand out a seed to all heroes. 
+
+Nature's ally. When you make a test of Mettle in a natural environment, add Trap to a creature. 
+_The roots began to slowly coil around its ankles..._
+
+Rotting touch. (1+Blight)d6i, consume Blight to roll d8 instead of d6. 
+Mark Stress to accelerate the rotting process by a few years, possibly rotting a wooden away from its hinges. 
+
+Fireflies. Introduce Fire, clear ambient Dark. Advantage to spot the target. 
+
+Winter wind. Introduce Cold, Cold $x$ d10i. If being blown away a short distance could be highly dangerous to the target (falling off a cliff), it happens on 8+. 
+
+
