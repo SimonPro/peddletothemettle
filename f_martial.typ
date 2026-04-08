@@ -106,6 +106,25 @@ Hit Protection : +2
 [ ]
 
 
+
+=== Berserker
+*Requirement*: None
+Modus Operandi: "Understanding comes from breaking things apart"
+Reliable Tests: Reliable test of destruction (4)
+Attack die: 2x +1 step 
+Stress Limit : -1
+Hit Protection : +4
+
+
+==== Leveling Ability
+[ ] Brutal hit
+[ ] 
+
+==== Capstone Ability
+[ ] 
+
+
+
 === Paladin
 *Requirement*: None
 Modus Operandi: "You can trust your life in me"
@@ -175,6 +194,8 @@ If it lands on 5-6, choose 1:
 *Intimidating Presence*: Passive: Attack against foe affected by dread are at advantage
 *Heavy Armor Training*: Passive: Ignore all die smaller than 3 
 *Turtoise Stance*: Action: Mark Stress: ignore all die smaller or equal to 6
+
+*Brutal Hit*: Passive: Explode any dice rolled at max value 
 
 
 *Intercept* at resolve, bring any number of "1s" to you from close range. 
