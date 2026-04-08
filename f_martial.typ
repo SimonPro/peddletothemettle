@@ -89,7 +89,7 @@ Hit Protection : +2
 === Pugilist
 *Requirement*: None
 Modus Operandi: "Keep your allies close, but your enemy closer"
-Reliable Tests: Reliable test of stamina
+Reliable Tests: Reliable test of stamina (4)
 Attack die: Divide in d4
 Stress Limit : +1
 Hit Protection : +2
@@ -97,13 +97,40 @@ Hit Protection : +2
 
 ==== Leveling Ability
 [ ] +1 attack die (d4)
-[ ] Tough 
+[ ] Tough 
 [ ] Pile Driver
 [ ] Submission Technique
 [ ] Intercept
 
-==== Capston Ability
+==== Capstone Ability
 [ ]
+
+
+=== Paladin
+*Requirement*: None
+Modus Operandi: "You can trust your life in me"
+Reliable Tests: Reliable test of protecting (4)
+Attack die: +1 Step
+Stress Limit : +1
+Hit Protection : +2
+
+In downtime, you can designate another hero as your protégé. 
+You must sit next to them at the table, so pick someone whose company you enjoy, and get their approval first. They can revoke the protégé status anytime. 
+Your protégé might be a muse, a romantic interest, or just the bookish and meek wizard you are nevertheless fond of. 
+
+your target is dissuaded to attack your protégé. 
+It avoids attacking it, unless also attacking you at the same time, or when it can attack your protégé but not you. 
+Struggle ends. 
+
+
+==== Leveling Ability
+[ ] Reassuring Presence
+[ ] Intimidating Presence
+[ ] Serial blocker 
+[ ] Heavy Armor Training
+
+==== Capstone Ability
+[ ] Turtoise Stance
 
 
 
@@ -142,6 +169,12 @@ If it lands on 5-6, choose 1:
 *PileDriver*: Mark Stress, attack and add 1d4 for each threat in [*Trap*, *Open*, *Cold*] 
 *Submission Technique*: Inflict Trap, can Mark Stress to repeat this  
 *Tough*: +1 injury limit
+
+*Reassuring Presence*: Passive:  You and your protege Ignore dread threat when close
+*Serial blocker*: Actions: Mark Stress: Take any number of dmg dice from protege; reroll any damage die on you 
+*Intimidating Presence*: Passive: Attack against foe affected by dread are at advantage
+*Heavy Armor Training*: Passive: Ignore all die smaller than 3 
+*Turtoise Stance*: Action: Mark Stress: ignore all die smaller or equal to 6
 
 
 *Intercept* at resolve, bring any number of "1s" to you from close range. 
