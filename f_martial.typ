@@ -117,11 +117,11 @@ Hit Protection : +4
 
 
 ==== Leveling Ability
-[ ] Brutal hit
+[ ] 
 [ ] 
 
 ==== Capstone Ability
-[ ] 
+[ ] Brutal hit
 
 
 
