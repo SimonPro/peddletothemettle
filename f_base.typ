@@ -6,7 +6,9 @@
 - Les classes donnent une ligne claire sur "ce que tu est bon pour faire"
 - Design ouvert qui minimise le decision paralysis
 - Possibilité de balancer Versatile et Focus 
+- Design assymétrique avec synergie (chaque classe se combine de façon intéressante avec les autres)
 - Design assymétrique sans filling (i.e. pas faire 12 level d'haibilté quand le concept devient thin après 3)
+
 
 == Touchstones
 - Les character sheet / playbook des PbtA et BitD
@@ -33,7 +35,7 @@ Ca vient avec 3-4 options pour donner de la flavor mais c'est somewhat assez sym
     - Truth that hurt - 1d4i ranged
     - you're so previsible : remove an attack dice
 
-Après, pour ton premier level tu choisi un option de spécialisation parmis les 5-6 track qui existe pour ton base character - que tu dois spécialiser pendant au moins X level. Pour chacun de ses **X** level,  tu choisi genre a chaque level **n** habilités parmi les **m** possibles (à la city of mist). et après les X level tu peux prendre une autre track. Ca permettrait à la fois d'avoir des track courtes cohésives et d'explorer des design plus complexe et focus.
+Après, pour ton premier level tu choisi un option de spécialisation parmis les 5-6 track qui existe pour ton base character - que tu dois spécialiser pendant au moins X level. Pour chacun de ses **X** level,  tu choisi **n** habilités parmi les **m** possibles (à la city of mist). et après les X level tu prend un capstone et  une autre track. Ca permettrait à la fois d'avoir des track courtes cohésives et d'explorer des design plus complexe et focus.
 
     - Paladin
         - Concept de protégé,  
