@@ -3,7 +3,7 @@
 
 Attack die : d8
 Stress Limit : 4
-Hit Protection : 12
+Injury Limit : 12
 
 == Base ability
 
@@ -18,7 +18,7 @@ Reliable tests : tests of stregth (2)
 
 Attack die : +1 dice step 
 Stress Limit : +1
-Hit Protection : +2
+Injury Limit : +2
 
 ==== Leveling ability
 
@@ -39,7 +39,7 @@ Modus Operandi : "I believe what my eyes show me"
 Reliable tests : tests of agility (2)
 Attack die : Your attack can hit foe far from you
 Stress Limit : +2
-Hit Protection : +0
+Injury Limit : +0
 
 ==== Leveling Abilities
 
@@ -56,7 +56,7 @@ Modus Operandi : "Patience will get anything"
 Reliable tests: Reliable test of spot and assess foes. (4)
 Attack die: +1 dice Step
 Stress Limit : +0
-Hit Protection : +4
+Injury Limit : +4
 
 ==== Leveling Abilities
 
@@ -75,7 +75,7 @@ Modus Operandi : "I can't be beaten one on one"
 Reliable tests: Reliable test of speed and mobility. (4)
 Attack die: +1 die (d4) 
 Stress Limit : +2
-Hit Protection : +2
+Injury Limit : +2
 
 ==== Leveling Ability
 [ ] Duel
@@ -92,7 +92,7 @@ Modus Operandi: "Keep your allies close, but your enemy closer"
 Reliable Tests: Reliable test of stamina (4)
 Attack die: Divide in d4
 Stress Limit : +1
-Hit Protection : +2
+Injury Limit : +2
 
 
 ==== Leveling Ability
@@ -113,7 +113,7 @@ Modus Operandi: "Understanding comes from breaking things apart"
 Reliable Tests: Reliable test of destruction (4)
 Attack die: 2x +1 step 
 Stress Limit : -1
-Hit Protection : +4
+Injury Limit : +4
 
 
 ==== Leveling Ability
@@ -131,7 +131,7 @@ Modus Operandi: "You can trust your life in me"
 Reliable Tests: Reliable test of protecting (4)
 Attack die: +1 Step
 Stress Limit : +1
-Hit Protection : +2
+Injury Limit : +2
 
 In downtime, you can designate another hero as your protégé. 
 You must sit next to them at the table, so pick someone whose company you enjoy, and get their approval first. They can revoke the protégé status anytime. 
