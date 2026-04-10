@@ -14,13 +14,14 @@
 == Class Implementation
 
 1. Each Class is defined by its Chassis core feature that is enhanced throughout the PC level
-2. Each Class chassis can be filled with up to 3 tracks that build on the chassis mechanics 
-3. A track needs to be leveled 4 times before a new track can be selected
+1. Each Class chassis can be filled with up to 3 tracks that build on the chassis mechanics 
 1. Selecting a track adds bonus to the characters such as 
   1. A Chassis mechanic relevant ability 
   2. A reliable test (i.e. to stats improvement)
   3. A Stress / Injury limit modification (i.e. stats improvement)
-1. the 4th levels taken on the track always give the "Capstone skill", 
+1. A track needs to be leveled 4 times before a new track can be selected
+1. Each level gives the opportunity to select a new skill amongts the one from the track.
+1. The 4th levels taken on the track always give the "Capstone skill".
 
 == Martial
 1. The Martial Chassis allows the adventurer to handle combat through dice pools.
