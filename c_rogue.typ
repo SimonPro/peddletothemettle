@@ -1,5 +1,5 @@
 /* This file for all roguish type classes and abilities. */
-== Knave (or Expert)
+== Rogue
 /* Minor story benefit, good effect for 3-4/15 (~20-25%) rolls. */
 
 /*
@@ -43,7 +43,11 @@ Put together a small deck: Cards of your suit (Ace, 2 to 10, Knave, Queen, King)
 Match the Queen and King to two other heroes in your group. 
 Remove one or both from the deck if there are fewer than two other heroes. 
 
-/* Or rework so that the knave doesn't roll 2d12, but instead 1d12 AND flips a card Ace-2 to 10-Knave + Joker. Knave counts as 12. Joker counts as any number you want. */
+/* Or rework so that the knave doesn't roll 2d12, but instead 1d12 AND flips a card Ace-2 to 10-Knave + Joker. Knave counts as 12. Joker counts as any number you want. 
+SP: Confirmed, preferred rework. However, should be on a TRACK. Default rogue rolls dice normally MOST OF THE TIME, 
+ but still engages in luck manipulation by using the side deck in some situations. 
+ The "track" rogue could get an alternate version where you always flip a card. 
+*/
 
 Each time the play session begins, shuffle the deck then leave it facedown in front of you. 
 *Whenever you roll a test, draw a card.* Reshuffle once they are all drawn. 

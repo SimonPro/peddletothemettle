@@ -95,21 +95,24 @@ Levels 1 through 12.
 "Reliable test": Those tests that let you reroll low results until you get a better one. 
 
 1 Character creation. 
-Gain: 3 Stress. 3x 1-2 rerolls (2 wide use, 1 special from background with drive/flaw). Choose "base class". 
-2 Specialization feature
-3 Specialization feature
-4 Base class feature
+Choose 2 "skills" from race or background (pick from mixed bag of options, for instance "Reroll 1,2,3,4 on tests to pick locks or pockets.")
+Choose starter class, which sets stress limit, injury limit, 2x 1-2 rerolls. 
+Choose drive and flaw, starter class gives examples. 
+Choose first track, choose one "skill" from it. 
+2 Track feature
+3 Track feature
+4 Starter class feature
 Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
-5 Specialization feature
-6 Specialization feature
-7 Base class feature
+5 Track feature
+6 Track feature
+7 Starter class feature
 Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
-8 Specialization feature
-9 Specialization feature 
-10 Base class feature
+8 Track feature
+9 Track feature 
+10 Starter class feature
 Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
-11 Specialization feature 
-12 Specialization feature 
+11 Track feature 
+12 Track feature 
 
 === Experience
 /* XP for drama, action, ressource spending. */
