@@ -1,3 +1,6 @@
+
+
+
 /* This file for all martial type classes and abilities. */
 = Martial Character
 
@@ -9,6 +12,7 @@ Injury Limit : 12
 
 Melee Attack : Roll you attack dice against a close foe
 Dodge : Reroll an attack die against you
+Signature Move: *King of BigCity*
 Reliablie Test: Make creative use of any weapon (4)
 
 === Fighter
@@ -174,7 +178,8 @@ If it lands on 5-6, choose 1:
 *Bow trick*: Mark Stress: +1d10
 *Sniper* : Mark Stress: Attack with Increased dice size for each inflicted fool  
 *Hide*: if dark or fool, inflict fool
-
+*King of BigCity*:  Passive: During one of you attack action, you can reroll any damage dice up to 2 times
+*Chaining Combo*: Passive: You can combine all your attack into a single big attack (sum all dice)
 
 *Survival*: If water or trap present or Mark stress. heal 1d8 HP
 *Scouting flashback*: Mark stress. Clear all Trap threats, or shift up to 2. 
