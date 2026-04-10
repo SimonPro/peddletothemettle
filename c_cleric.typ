@@ -61,8 +61,8 @@ _You *will* make this leap, for you are meek and jumpy as the gazelle, my friend
 
 
 == Druid
-This class may contain nuts. 
-Seriously, if there are nut allergies at your table, substitute them with candy or play something else. 
+This class contains nuts. 
+Seriously, if there are nut allergies at your table, substitute them with fruit or play something else. 
 
 Druids are mystics of the wild, of pastoral life. 
 Who will choreograph the rain dance? 
@@ -74,28 +74,34 @@ Reliable tests
 Influence animals
 
 *Seed faith.*
-Procure a bag of peanuts, cashews or other crunchy delight. 
-If you can easily procure them each session, good berries are also acceptable. 
+Procure a bag of peanuts, cashews, sunflower seeds or other crunchy delight. 
+If you can get them fresh, good berries are also a fantastic option. 
+Processed sweets are unnatural and to be avoided, however. 
+Either way, they are called _seeds_ for our purposes. 
 
-When a rule lets you _hand out a seed_, give out one such delight to the player in control of the relevant target. 
-When that player eats it, their character can immediately clear stress, or clear 3 injuries. 
+Whenever your character rests or a game session begins, set a number of seeds equal to your stress limit in front of you. 
+When a rule lets you _hand out a seed_, give one to the player in control of the relevant target. 
 
-As an action, you can mark stress to hand out a seed to someone close. 
-
-You can keep a seed for yourself too. 
-Seeds lose their magical power after a short time, so eat them quickly to benefit. 
+When that player eats one or more (you can eat your own seeds too), their character can immediately clear stress, or clear X injuries for each seed eaten. 
+In the fiction, seeds lose their magical power after a short time once handed out, so eat them quickly to benefit. 
 
 *Features*
-Care for the flock. Mark Supply. Hand out a seed to all heroes. 
+Wholesale enchantment. In downtime, mark Supply. Hand out a seed to all heroes from the bag, instead of those set in front of you. 
 
 Nature's ally. When you make a test of Mettle in a natural environment, add Trap to a creature. 
 _The roots began to slowly coil around its ankles..._
+
+Friend to animals. When you hand out a seed to an animal, it immediately becomes a lot friendlier, unless already hurt by you or your friends. 
+You are also roughly understood by animals. 
+This is sufficient for simple things like _go away_ or _nod _, but it does not make them any more reasonable or friendly. 
+You can try though. 
+_Back! The ancient tongues summon you back to the underworld, creature of the babhla leithris! Loqueris latine! Milás elliniká!_
 
 Rotting touch. (1+Blight)d6i, consume Blight to roll d8 instead of d6. 
 Mark Stress to accelerate the rotting process by a few years, possibly rotting a wooden away from its hinges. 
 
 Fireflies. Introduce Fire, clear ambient Dark. Advantage to spot the target. 
 
-Winter wind. Introduce Cold, Cold $x$ d10i. If being blown away a short distance could be highly dangerous to the target (falling off a cliff), it happens on 8+. 
+Winter wind. Introduce Cold, (Cold)d10i. If being blown away a short distance could be highly dangerous to the target (falling off a cliff), it happens on 8+. 
 
 

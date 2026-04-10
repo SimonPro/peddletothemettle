@@ -1,5 +1,46 @@
 = CHARACTERS
 
+/* Philosophie de design 
+0. Fun à partir du level 1
+1. Each class should feel unique, synergize with others
+2. Each class playstyle should be asymmetric, without meaningless filler
+3. Each class should adress progression scaling using the action economy in its own way
+4. Balance focus and versatility
+
+Touchstones
+1. Dungeon World / BitD for character sheet with checkable skills
+2. City of mist for multi track characters
+3. Primordial for Chassis and tracks
+4. Fabula Ultima for mix and match class and capstone skills
+
+Implémentation
+"Class": Classe prise au niveau 1 qui crée une assymétrie fondamentale. Les 3-4 classes de base. Ajouts au fil des niveaux. 
+"Track": Ensemble d'habileté avec un thème qui spécialise le perso. On vise 2-3 tracks par perso, au max level. Commence au niveau 2. 
+SP: J'aimerais dissocier class/track, c-à-d pas une relation 1:n. Les n tracks pourraient être prises par les m classes; p-ê certaines ont des pré-requis. 
+
+Selecting a track adds bonus to the characters such as 
+  1. A Chassis mechanic relevant ability 
+  2. A reliable test (i.e. to stats improvement)
+  3. A Stress / Injury limit modification (i.e. stats improvement)
+Must choose X number of skills from a track before a new one can be selected. 
+Each level gives the opportunity to select a new skill amongts the one from the track.
+
+The 4th levels taken on the track always give the "Capstone skill".
+SP: Pas tant besoin de la notion d'un capstone? Je voudrais bien laisser un joueur prendre les 6 skills de "ice witch" au lieu de bloquer à 4 et être forcé de sortir. 
+
+Le mage peut setup une grosse attaque pour le fighter
+    Transform du fool en trap (genre les pti goblins se cachent, le mage fait glacer des trucs, ca hinder le mouvement stealth des golbins - trap)
+    Clear fool, Inflict Fool (les pti goblins se cachent, le feu pogne dans les ronces, la boucane les aveugle fool)
+    Le fighter profite que le mage ait setup les threats pour faire son "i know where it hurt"
+Le fighter peut setup 
+Armor reduces damage you take at Settle, 1 for 1. une grosse attaque pour la mage
+    il fait pocket sand pour utiliser un "supply" pour aveugler l'autre Fool
+    le mage peut fais son raise the stake pour inflict fire
+    le mage fait son death from above
+
+Évidemment, si la threat est déjà présente dans l'ambiant , on peut skipper les préliminaires et aller direct a la grosse attaque
+*/
+
 == Reliable tests
 
 Each class grants access to a list of reliable tests. 
@@ -22,25 +63,51 @@ or other twists:
 Sacrifice and selfnessness 
 Wisdom and self control
 
-
 ... others that fit a special class fantasy. 
 Ex Wizard "Withstand hostile magical effects."
+
+== Starter Classes
+/*
+Chassis de base. 
+- Martial Dude
+    - Ti coup d'arme (ajouter le flavor) - 1d6i (pkoi le i donc?)
+    - Tite esquive fancy (ajouter le flavor: bouclier ou juste pure agilité? on s'en cr**s) - disadvantage à un attack dice
+- Magic User 
+    - Ti coup de baguette () - 1d4i ranged
+    - Magic force field - prevent 1d4i
+- Lore Nerd
+    - Truth that hurt - 1d4i ranged
+    - you're so previsible : remove an attack dice
+
+SP: J'aime appuyer sur une thématique claire. Expert/Enhanced c'est pas limpide. Si on veut playtester et que le monde embarque, faut que ce soit super facile à lire en un coup d'oeil au level 1 (chargen). D'où le "Warrior/Knave/Wizard/Disciple" dans mon design précédent. 
+*/
 
 == Advancement
 Levels 1 through 12. 
 
 "Reliable test": Those tests that let you reroll low results until you get a better one. 
 
-1 Character creation. 3 Stress. 3x 1-2 rerolls (2 wide use, 1 special from background). 
-2 Feature
-3 Injury limit/Stress limit increase/Upgrade 1-2 to 1-2-3
-4 Feature
-5 Injury limit/Stress limit increase/Introduce new 1-2
-6 Feature
-7 Injury limit/Stress limit increase/Upgrade 1-2 to 1-2-3
-8 Feature
-9 Injury limit/Stress limit increase/Introduce new 1-2
-10 Feature
-11 Injury limit/Stress limit increase/Upgrade 1-2 to 1-2-3
-12 Feature/Capstone. 
+1 Character creation. 
+Gain: 3 Stress. 3x 1-2 rerolls (2 wide use, 1 special from background with drive/flaw). Choose "base class". 
+2 Specialization feature
+3 Specialization feature
+4 Base class feature
+Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
+5 Specialization feature
+6 Specialization feature
+7 Base class feature
+Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
+8 Specialization feature
+9 Specialization feature 
+10 Base class feature
+Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
+11 Specialization feature 
+12 Specialization feature 
 
+=== Experience
+/* XP for drama, action, ressource spending. */
+
+Chaque perso vient avec une drive et un flaw, et chaque track vient avec un Modus Operandi. Un genre de "what would a X do" que tu dois le customiser un peu pour flavorer ton personnage. Utiliser ta drive, ton flaw ou ton Modus Operandi te donne 1 XP. 
+
+Quand tu spend un stress, 1 XP, Quand tu spend 1 supply, 1 XP. Quand tu spend do gold pour faire du carousing, 1 XP (ou voir les tables de carousing de shadowdark)
+Pas de XP par combat. 

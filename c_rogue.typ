@@ -1,6 +1,27 @@
 /* This file for all roguish type classes and abilities. */
-== Knave
+== Knave (or Expert)
 /* Minor story benefit, good effect for 3-4/15 (~20-25%) rolls. */
+
+/*
+Allows the adventurer to address randomness with cards and dice. 
+1. Each track give a draft (draw knowledge) opportunity
+  1. When you draw knowledge take the 5 top card of a deck, and pick all major arcana and one card that _suits you_
+  2. Using Tarot Card here for major arcana that could be used for "capstone skills"
+1. Each tracks uses drafted cards to fuel power or alters rolls  
+1. Chassis tracks' power use threat in an unexpected ways
+1. Can spend one supply to "draw knowledge"
+
+Power scaling
+1. Experts have limited uses of their high impact "spell" as it's driven by card draft
+1. Low level expert will combine basic moves (attack, defend) with high impact "spell"
+1. Scaling from drafting more cards to  increases the amount of high power move that can be triggered by turn / combat 
+  1. Draw knowledge opportunities increases as more expertise are added, 
+  1. More suits are available to draft as character levels up
+
+=== Core chassis mechanics
+1. Suit up (level 1, 4, 8, 12)
+Choose one suit that you can draft during "draw knowledge"
+*/
 Everyone loves a charming rogue, a brooding assassin, a morally grey mercenary with gallows humor. 
 Play this class to get up to all sorts of shenanigans. 
 
@@ -33,6 +54,61 @@ Knave: That's you. You automatically succeed, or put the knave back at the botto
 Queen or King: Given you can describe a reasonable way in which the matched hero helps you succeed, gain Advantage. 
 Joker: Turn a twelve-sided die of your choice to a 12. 
 
+== Associated tracks
+
+=== Bard
+Spout lore: Introduce a threat with your first test of mettle test each battle. 
+Dirge: Add an ambient Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 
+
+
+Musical instrument; can be super simple, as little as a spoon and three glasses of different sizes and a spoon so you can play 3 notes. 
+Sing, also.  A sound board. 
+Or songs, or whatever. 
+
+
+=== Socialite
+Will use their social ability to get through *any* situation
+
+1. Draw knowledge when "surrounded and gossiping with people"
+1. Card gimmick : Auto success 
+  0. Major Arcana:  
+  1. Cups: Alter emotions
+  2. Swords: Intimidate
+  3. Wands: Influence actions
+  4. Coins: Sway  
+
+=== Tactician
+Will shape the battlefield to their advantage
+
+1. Draw knowledge when "fighting enemies"
+1. Card gimmick, drafted card present a condition (in term of threats) to fulfill to get an instakill in combat
+  1. Major Arcana: 
+    - Tower: 3x same threat = death
+    - Hanged man: 2x trap = death
+    - Death : 2x dread = death
+    - Lover : Attacking with Same threat = death
+    - Strength : 2x Open = Death
+  1 Card Gimmick :
+    1. Meddle with the mettle : decrease or replace the value of the test of the mettle by card value
+
+
+=== Herborist
+1. Draw knowledge when "Foraging, Harvesting parts"
+1. Card gimmick:
+  0. Major arcana to heal that amount of Injury
+  1. Use cups card to : Heal stress 
+  2. Use sword card to : deal damage
+  3. Use wand card to : inflict threat
+  4. Use coins card to : heal supply
+
+
+=== Diviner
+1. Draw knowledge when "Meditating"
+1. Card gimmick:
+  0. Major Arcana : introduce an associated threat (I've already seen this situation and this was there)
+  1. Raise / Lower / replace any roll by drafted card value (I've seen this moment, this is how it went)
+
+== Ideas for skills
 
 Evasion. Gain Advantage on tests to dodge out of the way. You can mark Stress to clear one damage die on you, up to 5. 
 Upgrade: Die of any value, not just up to 5. 
@@ -58,15 +134,6 @@ You also gain the ability to clamber up even vertical surfaces a close distance 
 _You are encouraged to mutter parkour! parkour! as you roll._
 
 Skulker. Roll tests to sneak around with Advantage. You make no sound when you move, unless you're in a rush. 
-
-== Bard
-Spout lore: Introduce a threat with your first test of mettle test each battle. 
-Dirge: Add an ambient Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 
-
-
-Musical instrument; can be super simple, as little as a spoon and three glasses of different sizes and a spoon so you can play 3 notes. 
-Sing, also.  A sound board. 
-Or songs, or whatever. 
 
 Catharsis: When you make a reliable test and a result is 12, clear a Stress. If both are 12, clear all Stress. 
 
