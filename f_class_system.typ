@@ -14,13 +14,13 @@
 == Class Implementation
 
 1. Each Class is defined by its Chassis core feature that is enhanced throughout the PC level
-2. Each Class chassis can be filled with tracks that builds on the chassis mechanics 
-3. A track needs to be leveled 3 times before a new track can be selected
+2. Each Class chassis can be filled with up to 3 tracks that build on the chassis mechanics 
+3. A track needs to be leveled 4 times before a new track can be selected
 1. Selecting a track adds bonus to the characters such as 
   1. A Chassis mechanic relevant ability 
   2. A reliable test (i.e. to stats improvement)
   3. A Stress / Injury limit modification (i.e. stats improvement)
-1. the 3rd/4th levels taken on the track always give the "Capstone skill", 
+1. the 4th levels taken on the track always give the "Capstone skill", 
 
 == Martial
 1. The Martial Chassis allows the adventurer to handle combat through dice pools.
@@ -84,7 +84,7 @@ Makes complex plan to kill someone
 
 
 === Experts
-1. The Expert chassis allows the adventurer to address randomness from cards instead of dice
+1. The Expert chassis allows the adventurer to address randomness with cards and dice
 1. Each track give a draft (draw knowledge) opportunity
   1. When you draw knowledge take the 5 top card of a deck, and pick all major arcana and one card that _suits you_
   2. Using Tarot Card here for major arcana that could be used for "capstone skills"
@@ -146,6 +146,9 @@ Will shape the battlefield to their advantage
 2. Each track gives a toy doodad to play with
 3. Each track gives an opportunity to control an element and influence ambient threat 
 4. Each track gives a ritual associated with their element / threat
+5. Each track gives a capstone skill that is a powerful one time use of their element / threat
+6. Each track gives a passive that is always on and associated with their element / threat
+7. Each track gives an attack that is associated with their element / threat
 
 === Core Chassis mechanics
 1. Elemental Conduit - Can apply their element from ambient to a foe 
