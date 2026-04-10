@@ -4,6 +4,7 @@
 
 1. Each class should feel unique
 2. Each class playstyle should be asymmetric 
+3. Each class progression should adress the action economy in its own way
 
 == Inspiration
 1. Dungeon World / BitD for character sheet with checkable skills
@@ -28,7 +29,7 @@
 1. Each tracks either levels up, split, or add dices.
 1. Each track uses the pool in its own way
 1. Can mark supply to add one d8 to their pool for the turn
-
+1. Action economy management: Increasing dice pool is equivalent to having more attacks per turn (DPS increases as specialities are selected) 
 
 === Core chassis Mechanic 
 1. Can Yatzhee its pool (level 1)
@@ -92,6 +93,7 @@ Makes complex plan to kill someone
 1. Each tracks uses drafted cards to fuel power or alters rolls  
 1. Chassis tracks' power use threat in an unexpected ways
 1. Can spend one supply to "draw knowledge"
+1. As more suits are available to draft as character levels up, in increases the amount of high power move that can be triggered (hence 3 power per turn is possible at higher level) 
 
 === Core chassis mechanics
 1. Suit up (level 1, 4, 8, 12)
@@ -150,6 +152,7 @@ Will shape the battlefield to their advantage
 5. Each track gives a capstone skill that is a powerful one time use of their element / threat
 6. Each track gives a passive that is always on and associated with their element / threat
 7. Each track gives an attack that is associated with their element / threat
+8. Action economy is adressed by controling more doodad that will "act on their own"
 
 === Core Chassis mechanics
 1. Elemental Conduit - Can apply their element from ambient to a foe 
