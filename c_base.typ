@@ -68,18 +68,25 @@ Ex Wizard "Withstand hostile magical effects."
 
 == Starter Classes
 /*
-Chassis de base. 
-- Martial Dude
-    - Ti coup d'arme (ajouter le flavor) - 1d6i (pkoi le i donc?)
-    - Tite esquive fancy (ajouter le flavor: bouclier ou juste pure agilité? on s'en cr**s) - disadvantage à un attack dice
-- Magic User 
-    - Ti coup de baguette () - 1d4i ranged
-    - Magic force field - prevent 1d4i
-- Lore Nerd
-    - Truth that hurt - 1d4i ranged
-    - you're so previsible : remove an attack dice
-
 SP: J'aime appuyer sur une thématique claire. Expert/Enhanced c'est pas limpide. Si on veut playtester et que le monde embarque, faut que ce soit super facile à lire en un coup d'oeil au level 1 (chargen). D'où le "Warrior/Knave/Wizard/Disciple" dans mon design précédent. 
+
+Warrior (Martial dude)
+ - Better weapon damage, play with damage dice. 
+ - Better defense, clears threats more easily. 
+ - Casse le jeu en étant fort pour combattre. 
+
+Magician (Magic user)
+ - Spells; unique mechanic to make them more powerful. 
+ - Casse le jeu avec ses spells. 
+
+Rogue (Scoundrel, Knave)
+ - Cheater, tarot or playing card mechanic. 
+ - Casse le jeu avec sa chance, manipulation de dés. 
+SP: Je préfère largement les cartes à jouer car très faciles à obtenir, et on veut un jeu qui se prend pas trop au sérieux. 
+
+(Optionnel) Acolyte (Priest, cleric)
+ - Plays with ambient threats (Prayers, group buffs, mantras)
+ - Casse le jeu en changeant les ambient threats pour le bénéfice du groupe, et avec un solide buff. 
 */
 
 == Advancement
