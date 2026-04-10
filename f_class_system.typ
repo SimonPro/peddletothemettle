@@ -2,8 +2,8 @@
 
 == Design Philosophy
 
-1. Each class should feel unique different
-2. Each class playstyle should be asymetric 
+1. Each class should feel unique
+2. Each class playstyle should be asymmetric 
 
 == Inspiration
 1. Dungeon World / BitD for character sheet with checkable skills
@@ -13,9 +13,9 @@
 
 == Class Implementation
 
-1. Each Class is defined by it's Chassis core feature that is enhanced thoughout the PC level
-2. Each Class chassis can be filled with tracks builds on the chassis mechanics 
-3. A track needs to be level 3 times before a new track can be selected
+1. Each Class is defined by its Chassis core feature that is enhanced throughout the PC level
+2. Each Class chassis can be filled with tracks that builds on the chassis mechanics 
+3. A track needs to be leveled 3 times before a new track can be selected
 1. Selecting a track adds bonus to the characters such as 
   1. A Chassis mechanic relevant ability 
   2. A reliable test (i.e. to stats improvement)
@@ -23,14 +23,14 @@
 1. the 3rd/4th levels taken on the track always give the "Capstone skill", 
 
 == Martial
-1. The Martial Chassis allows the adventurer to handle combat throught dice pools.
+1. The Martial Chassis allows the adventurer to handle combat through dice pools.
 1. Each tracks either levels up, split, or add dices.
 1. Each track uses the pool in its own way
 1. Can mark supply to add one d8 to their pool for the turn
 
 
 === Core chassis Mechanic 
-1. Can Yatzhee it's pool (level 1)
+1. Can Yatzhee its pool (level 1)
 1. Can chain attack - and combine all move dice into one (level 6)
 1. Can combine attack with teammates and combine all move dice into one (level 12)
 
@@ -38,7 +38,7 @@
 === Fighter [Open]
 Polyvalent dude, fights dirty 
 
-1. Strengt tests
+1. Strength tests
 2. +1 Dice size
 3. Polyvalent, dice pool can target close or far foes
 4. Feint, effective Shove, creates opening ...
@@ -59,7 +59,7 @@ He attacks, but most importantly, he protects
 1. Niche protection tests
 2. +1 Dice Size
 3. Protect (catch die at close)
-4. Turtoise mode 
+4. Tortoise mode 
 5. Heavy armor training 
 
 === Pugilist [trap, cold, water]
@@ -70,7 +70,7 @@ Hand to hand fighter, quick jab, monk magic
 3. Use threat to roll more d4 (trap, cold, water) - 
 
 === Berserker
-Very strong, will exhaus himself 
+Very strong, will exhaust himself 
 
 1. +2 Dice size 
 2. Lower Stress limit
@@ -80,11 +80,11 @@ Very strong, will exhaus himself
 Makes complex plan to kill someone  
 
 1. Total dice are split into d4,
-2. Double, Tripple, straight
+2. Double, Triple, straight
 
 
 === Experts
-1. The Expert chassis allows the adventurer to adress randomness from cards instead of dice
+1. The Expert chassis allows the adventurer to address randomness from cards instead of dice
 1. Each track give a draft (draw knowledge) opportunity
   1. When you draw knowledge take the 5 top card of a deck, and pick all major arcana and one card that _suits you_
   2. Using Tarot Card here for major arcana that could be used for "capstone skills"
@@ -101,7 +101,7 @@ Choose one suit that you can draft during "draw knowledge"
 Will use their social ability to get through *any* situation
 
 1. Draw knowledge when "surrounded and gossiping with people"
-1. Card gimmick : Auto succes 
+1. Card gimmick : Auto success 
   0. Major Arcana:  
   1. Cups: Alter emotions
   2. Swords: Intimidate
@@ -112,7 +112,7 @@ Will use their social ability to get through *any* situation
 Will shape the battlefield to their advantage
 
 1. Draw knowledge when "fighting enemies"
-1. Card gimmick, drafted card present a condition (in term of threats) to fullfil to get an instakill in combat
+1. Card gimmick, drafted card present a condition (in term of threats) to fulfill to get an instakill in combat
   1. Major Arcana: 
     - Tower: 3x same threat = death
     - Hanged man: 2x trap = death
@@ -144,12 +144,12 @@ Will shape the battlefield to their advantage
 == Enhanced
 1. The enhanced chassis allows the adventurer to summon energy to help them in their quest
 2. Each track gives a toy doodad to play with
-3. Each track gives an opportunity to control an elemement and influence ambient threat 
+3. Each track gives an opportunity to control an element and influence ambient threat 
 4. Each track gives a ritual associated with their element / threat
 
 === Core Chassis mechanics
-1. Elemental Conduit - Can apply their element from ambien to a foe 
-2. Elemental Transformation - Can convert targetet threat [Fire, Cold, Water, Fool, Trap] (transformer de de la glace en eau, l'eau en terrain glissant (trap), de l'eau en vapeur aveuglante(fool))
+1. Elemental Conduit - Can apply their element from ambient to a foe 
+2. Elemental Transformation - Can convert targeted threat [Fire, Cold, Water, Fool, Trap] (transformer de de la glace en eau, l'eau en terrain glissant (trap), de l'eau en vapeur aveuglante(fool))
 3.  
 
 
