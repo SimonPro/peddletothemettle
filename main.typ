@@ -14,7 +14,7 @@ Besides a table and some friends, you will need:
 
 = CLASSES
 #include "c_cleric.typ"
-#include "c_rogue.typ"
+#include "c_ace.typ"
 #include "c_warrior.typ"
 #include "c_wizard.typ"
 
