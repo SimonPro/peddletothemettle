@@ -60,6 +60,13 @@ Increase the supply limit for the group by X.
 // Match the Queen and King to two other heroes in your group. 
 // Remove one or both from the deck if there are fewer than two other heroes. 
 
+=== Advanced skills
+
+*Ace in the sleeve.* Put the Ace in your sleeve or pocket. 
+When you _draw knowledge_, you can decide to produce the Ace. 
+Bring it back to your sleeve when you reshuffle the deck. 
+
+
 == Associated tracks
 
 === Knave

@@ -1,6 +1,6 @@
 /* This file for all magic-y type classes and abilities. */
 
-== Wizard (or Enhanced)
+== Mage
 /* Wizard, Mage, Sorcerer, Witch 
 
 Core class mechanic
@@ -33,6 +33,38 @@ Each track gives the opportunity to control more doodads that will "act on their
   3. Dread: More minions
 */
 
+/*
+Idées pour Magic User level 1: 
+
+Whenever you would mark stress as part of casting or sustaining a spell, roll 1d6. On a 5 or 6, do not mark stress. 
+(Most spells require spending stress.)
+
+Once each turn, you can mark stress to sustain a magical effect without spending an action. 
+(Assuming a lot of spells ask you to sustain like Pf2e.)
+
+*Magical affinity.*
+Choose a threat. 
+
+Burning ray. 
+Freezing ray. 
+Blinding ray. 
+Sickening ray. 
+Frightful ray. 
+Confusing ray. 
+Soaking ray. 
+Entangling ray. 
+Knockback ray. 
+Basically roll 1d6i and mark stress to introduce that threat for free. 
+*/
+
+*Magical ritual.*
+Ritual to detect magic, cancel magic, etc. "Common magic" ritual. 
+
+
+== Associated tracks
+
+=== Wizard
+
 *Spellbook.*
 Grab a stack of index cards, sticky notes or a small notebook to be your _spellbook_. 
 In the fiction, your spellbook is an actual book, scroll, or tablet you can wield in one hand. 
@@ -42,8 +74,6 @@ When you wield a spellbook you can:
 
 When rules allow you to *mark* something in the spellbook, write it down. 
 When you *clear*, rip the sticky note, erase or cross it out in the notebook --- get rid of it. 
-
-== Associated tracks
 
 === Seer
 
