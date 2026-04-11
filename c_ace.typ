@@ -1,5 +1,5 @@
 /* This file for all roguish type classes and abilities. */
-== Knave (or Expert)
+== Ace
 /* Minor story benefit, good effect for 3-4/15 (~20-25%) rolls. */
 
 /*
@@ -22,11 +22,61 @@ Power scaling
 1. Suit up (level 1, 4, 8, 12)
 Choose one suit that you can draft during "draw knowledge"
 */
+
+*Suit up.*
+You are highly skilled and well prepared for the challenges of the adventuring life. 
+Choose a suit, the most appropriate for your particular expertise:  
+ - *Hearts.* Influence, social interactions. 
+ - *Spades.* Battle, defeating monsters. 
+ - *Diamonds.* Lore, treasure, magic. 
+ - *Clubs.* Nature, wilderness traversal. 
+
+*Draw from experience.*
+Get a regular set of playing cards, or repurpose some index cards. 
+Put together a small deck: all cards of your suit except the Knave (Ace, 2 to 10, Queen, King), for a total of 12 cards. 
+
+Each time the play session begins, shuffle the deck then leave it facedown in front of you. 
+When you attempt a test, you can mark stress to _draw from experience_. 
+
+Draw a card from the deck. 
+You can replace one d12 with the value of the drawn card. 
+For this purpose, the Queen is worth 11 and the King is worth 12. 
+
+You are the Ace. It lets you succeed automatically. 
+
+Reshuffle once all cards are drawn. 
+
+*Expert knowledge.*
+When you _draw from experience_ on a test that best relates to your suit (not any of the other three), 
+draw two cards. 
+Choose the one your prefer, and put the other at the bottom of the deck. 
+
+*Right tool for the job.*
+You can mark Supply to produce any particular tool or object you could have purchased earlier. 
+Coils of rope, a potion, a lockpick, and so on. 
+Increase the supply limit for the group by X. 
+
+// Possible features. 
+// Match the Queen and King to two other heroes in your group. 
+// Remove one or both from the deck if there are fewer than two other heroes. 
+
+=== Advanced skills
+
+*Ace in the sleeve.* Put the Ace in your sleeve or pocket. 
+When you _draw knowledge_, you can decide to produce the Ace. 
+Bring it back to your sleeve when you reshuffle the deck. 
+
+
+== Associated tracks
+
+=== Knave
+(Requires Ace class.)
+
 Everyone loves a charming rogue, a brooding assassin, a morally grey mercenary with gallows humor. 
 Play this class to get up to all sorts of shenanigans. 
 
-*Suit up.*
-Choose a suit: 
+*Knave's specialty.*
+Gain a feature based on your chosen suit: 
  - *Hearts*. Gain Advantage on tests to _seduce into revealing secrets_. 
  _Darling, I'm so sweet and flush with gold they call me honeypot._
  - *Spades*. A dubious item, a worrying blood smear, a corpse --- there is always a convenient spot to bury evidence. 
@@ -37,24 +87,19 @@ Choose a suit:
  If you _buy everyone a round_ (spend gold as appropriate), at least a few of them become downright friendly with you. 
 _You can find me in the tavern, it's my birthday._
 
-*Lucky.*
-Get a regular set of playing cards, or repurpose some index cards. 
-Put together a small deck: Cards of your suit (Ace, 2 to 10, Knave, Queen, King) and two jokers, for a total of 15 cards. 
-Match the Queen and King to two other heroes in your group. 
-Remove one or both from the deck if there are fewer than two other heroes. 
+*Knave's luck*. 
+Add the Knave of your suit to your deck. 
+You are the Knave; you succeed automatically, just like the Ace. 
 
-/* Or rework so that the knave doesn't roll 2d12, but instead 1d12 AND flips a card Ace-2 to 10-Knave + Joker. Knave counts as 12. Joker counts as any number you want. */
+/* Or rework so that the knave doesn't roll 2d12, but instead 1d12 AND flips a card Ace-2 to 10-Knave + Joker. Knave counts as 12. Joker counts as any number you want. 
+SP: Confirmed, preferred rework. However, should be on a TRACK. Default rogue rolls dice normally MOST OF THE TIME, 
+ but still engages in luck manipulation by using the side deck in some situations. 
+ The "track" rogue could get an alternate version where you always flip a card. 
+*/
 
-Each time the play session begins, shuffle the deck then leave it facedown in front of you. 
-*Whenever you roll a test, draw a card.* Reshuffle once they are all drawn. 
+*Whenever you roll a test, draw a card.* 
+// Knave doubles down on the deck feature. 
 
-Ace: Turn a twelve-sided die of your choice to a 1. (It could be a 1 already.)
-2-10: No effect. 
-Knave: That's you. You automatically succeed, or put the knave back at the bottom of the deck if you already would succeed. 
-Queen or King: Given you can describe a reasonable way in which the matched hero helps you succeed, gain Advantage. 
-Joker: Turn a twelve-sided die of your choice to a 12. 
-
-== Associated tracks
 
 === Bard
 Spout lore: Introduce a threat with your first test of mettle test each battle. 

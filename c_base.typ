@@ -68,18 +68,25 @@ Ex Wizard "Withstand hostile magical effects."
 
 == Starter Classes
 /*
-Chassis de base. 
-- Martial Dude
-    - Ti coup d'arme (ajouter le flavor) - 1d6i (pkoi le i donc?)
-    - Tite esquive fancy (ajouter le flavor: bouclier ou juste pure agilité? on s'en cr**s) - disadvantage à un attack dice
-- Magic User 
-    - Ti coup de baguette () - 1d4i ranged
-    - Magic force field - prevent 1d4i
-- Lore Nerd
-    - Truth that hurt - 1d4i ranged
-    - you're so previsible : remove an attack dice
-
 SP: J'aime appuyer sur une thématique claire. Expert/Enhanced c'est pas limpide. Si on veut playtester et que le monde embarque, faut que ce soit super facile à lire en un coup d'oeil au level 1 (chargen). D'où le "Warrior/Knave/Wizard/Disciple" dans mon design précédent. 
+
+Warrior (Martial dude)
+ - Better weapon damage, play with damage dice. 
+ - Better defense, clears threats more easily. 
+ - Casse le jeu en étant fort pour combattre. 
+
+Magician (Magic user)
+ - Spells; unique mechanic to make them more powerful. 
+ - Casse le jeu avec ses spells. 
+
+Rogue (Scoundrel, Knave)
+ - Cheater, tarot or playing card mechanic. 
+ - Casse le jeu avec sa chance, manipulation de dés. 
+SP: Je préfère largement les cartes à jouer car très faciles à obtenir, et on veut un jeu qui se prend pas trop au sérieux. 
+
+(Optionnel) Acolyte (Priest, cleric)
+ - Plays with ambient threats (Prayers, group buffs, mantras)
+ - Casse le jeu en changeant les ambient threats pour le bénéfice du groupe, et avec un solide buff. 
 */
 
 == Advancement
@@ -88,21 +95,24 @@ Levels 1 through 12.
 "Reliable test": Those tests that let you reroll low results until you get a better one. 
 
 1 Character creation. 
-Gain: 3 Stress. 3x 1-2 rerolls (2 wide use, 1 special from background with drive/flaw). Choose "base class". 
-2 Specialization feature
-3 Specialization feature
-4 Base class feature
+Choose 2 "skills" from race or background (pick from mixed bag of options, for instance "Reroll 1,2,3,4 on tests to pick locks or pockets.")
+Choose starter class, which sets stress limit, injury limit, 2x 1-2 rerolls. 
+Choose drive and flaw, starter class gives examples. 
+Choose first track, choose one "skill" from it. 
+2 Track feature
+3 Track feature
+4 Starter class feature
 Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
-5 Specialization feature
-6 Specialization feature
-7 Base class feature
+5 Track feature
+6 Track feature
+7 Starter class feature
 Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
-8 Specialization feature
-9 Specialization feature 
-10 Base class feature
+8 Track feature
+9 Track feature 
+10 Starter class feature
 Injury limit/Stress limit increase/Add 1-2 or upgrade 1-2-3
-11 Specialization feature 
-12 Specialization feature 
+11 Track feature 
+12 Track feature 
 
 === Experience
 /* XP for drama, action, ressource spending. */
