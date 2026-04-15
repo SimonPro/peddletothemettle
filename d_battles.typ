@@ -35,7 +35,7 @@ Introduce a threat. The best suited one based on your description.
 
 Blight - Let your poisoned weapon take effect. 
 Cold - Rip off their fur cloak. 
-Dark - Throw pocket sand, blinding them. Position yourself in shadows. 
+Dark - Throw pocket sand, blinding them. Position yourself out of their sight. 
 Dread - Scare or humiliate them. 
 Fire - Smash them with a burning torch. 
 Fool - Make a feint. 

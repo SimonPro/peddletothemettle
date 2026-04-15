@@ -121,3 +121,4 @@ Chaque perso vient avec une drive et un flaw, et chaque track vient avec un Modu
 
 Quand tu spend un stress, 1 XP, Quand tu spend 1 supply, 1 XP. Quand tu spend do gold pour faire du carousing, 1 XP (ou voir les tables de carousing de shadowdark)
 Pas de XP par combat. 
+/* SP Trop compliqué pour le genre de jeu qu'on a en tête IMO. */
