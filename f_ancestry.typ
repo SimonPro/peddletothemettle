@@ -19,30 +19,33 @@ Improvement. 4 foes.
 
 Big. Increase your injury limit by X. Damage from falls is doubled. 
 
-Tiny. Mark stress to clear i on you, but any action that demands force (weapon attacks, lifting something) is impossible. (Or use tiny weapons, deal little damage.)
-No damage from falls. 
+Tiny. Mark stress to clear i on you. 
+Your attacks with weapons always deal 1 damage, and all tests of strength have disadvantage. 
 
 Winged - Mark stress to fly a short time. 
 
 Nocturnal - In deep shadow, such as nighttime, you can see decently well in black and white -- enough to not hit your toes on furniture. 
-When you would suffer Disadvantage due to low visibility from deep shadow, Strain to ignore it. 
-You don't see in complete darkness. 
+You ignore one Dark on yourself. 
 
 Horned. 
-Strain to Attempt (Tough, Nimble, Arms). 
-<: 1D =: 2D, or 4D if you can shove them into a solid wall 4+: more. 
+Your horns count as a weapon you can attack with as an action, dealing 1d6i. 
+Whenever you move as an action, you can deal 1d6i to a creature you got close to. 
 
 Telepath - You can speak telepathically to others in the vicinity. 
-Strain to do so with one person for a short time, regardless of distance. 
+Mark stress to do so with a person you know for a short time, regardless of distance. 
 
-Shelled - Advantage when you Prevent with Tough. Disadvantage when you roll with Nimble. 
+Shelled - As an action you can recoil into your shell or emerge back out. 
+While recoiled you are unable to do anything but look around, and any damage die dealt to you is reduced by X (to nothing if lower). 
 _Turtlepeople and armored robot types._
 
 Pastoral - Add 1 when you Prevent with Wild. Advantage to influence animals. 
 
 Fishperson - You can swim and breathe underwater like a fish. 
+
 Monkeyperson - Attempt to climb, jump, and otherwise travel across forests and through foliage with Advantage. 
-Noble - Attempt to consort with nobility and other influence-seeking people with Advantage. Add 1 when you Prevent with Bold. 
-Learned - Advantage on Attempts to recall information about history, politics, religion, geography, and other such worldly topics, and to deal with keepers of such knowledge such as librarians or scribes. 
-Martial - etc. 
-(A lot like skills. Pick any 2. Structure them by affinity to certain tags.)
+
+Noble - Advantage on tests to consort with nobility and other influence-seeking people. 
+Begin the adventure with 10 additional gold. 
+
+Learned - Advantage on tests to recall information about history, politics, religion, geography, and other such worldly topics, and to deal with keepers of such knowledge such as librarians or scribes. 
+
