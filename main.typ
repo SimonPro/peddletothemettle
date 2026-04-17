@@ -13,7 +13,7 @@ Besides a table and some friends, you will need:
 #include "b_adventures.typ"
 
 = CLASSES
-#include "c_devotee.typ"
+#include "c_herald.typ"
 #include "c_ace.typ"
 #include "c_warrior.typ"
 #include "c_mage.typ"

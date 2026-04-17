@@ -25,10 +25,11 @@ Hoplites. Vikings. Legionaries. Immortals. Samurai. Eagle warriors.
 Thousands of years of real life history to pull inspiration from. 
 Play this class to dish it out and take it. 
 
-Attack die: d8
-/* SP: J'aime l'idée de laisser faire la relation arme:dégâts mais alors le choix d'arme peut venir avec une abilité, un range, etc. */
-Stress limit: 4
-Injury limit: 12
+/* SP: J'aime l'idée de laisser faire la relation arme:dégâts mais alors le choix d'arme peut venir avec une abilité, un range, etc. 
+Le chassis de base du warrior sera super simple, plus de health, plus de recovery. */
+Weapon die: 1d8
+Stress limit: 3
+Injury limit: 14
 
 Reroll 1s and 2s on tests: (Pick 3)
 - Of strength. 
@@ -37,19 +38,12 @@ Reroll 1s and 2s on tests: (Pick 3)
 - To spot and assess foes. 
 - To make creative use of any weapon. 
 
-Signature Move: *King of BigCity*
-/* SP Lol, à définir. */
+*Heavy hitter.*
+When you roll a weapon die, you can mark stress to reroll it. 
 
-*Sturdy.* Increase your injury limit by 5. 
-
-*Favored weapon.* One weapon in your possession is your favored weapon. You like it, maybe you named it. 
-When you attack with it, also roll a six-sided die, preferably one with a unique color or style --- this is your _favored weapon die_. 
-
-If it lands on 6, choose 1: 
-- Introduce a relevant threat (Blurry vision for Dark, knocked over for Open, panicked for Dread, and so on)
-- Turn one damage die to its highest possible value (6 for a d6, 8 for a d8, and so on). 
-
-In downtime, practice with a different weapon to replace it as your favored one. 
+*Quick recovery.*
+Whenever the heroes mark Supply to rest, roll an additional 1d6. 
+Clear that many injuries or stress, but only for yourself. 
 
 
 == Associated tracks
@@ -274,6 +268,9 @@ Injury Limit : +4
 *Topple*: Stress: Attack inflicts *Open*
 *Opportunist*: if foe *Open*, Attack at advantage 
 *Two-handed combat*: Split your attack dice so the sum still works
+
+Signature Move: *King of BigCity*
+/* SP Lol, à définir. */
 
 *Favored weapon.* One weapon in your possession is your favored weapon. You like it, maybe you named it. 
 When you attack with it, also roll a six-sided die, preferably one with a unique color or style --- this is your _favored weapon die_. 
