@@ -23,12 +23,16 @@ Power scaling
 Choose one suit that you can draft during "draw knowledge"
 */
 
+Weapon die: 1d6
+Stress limit: 4
+Injury limit: 12
+
 *Suit up.*
 You are highly skilled and well prepared for the challenges of the adventuring life. 
 Choose a suit, the most appropriate for your particular expertise:  
  - *Hearts.* Influence, social interactions. 
  - *Spades.* Battle, defeating monsters. 
- - *Diamonds.* Lore, treasure, magic. 
+ - *Diamonds.* World knowledge, treasure, magic. 
  - *Clubs.* Nature, wilderness traversal. 
 
 *Draw from experience.*
@@ -52,9 +56,10 @@ draw two cards.
 Choose the one your prefer, and put the other at the bottom of the deck. 
 
 *Right tool for the job.*
-You can mark Supply to produce any particular tool or object you could have purchased earlier. 
-Coils of rope, a potion, a lockpick, and so on. 
-Increase the supply limit for the group by X. 
+You can mark Supply to produce any particular tool or object you could have purchased earlier. If it costs gold, pay now. 
+In addition, increase the Supply limit for the group by 3. 
+
+_Snowshoes? Rope ladder? A few torches? A potion? Why, I have that right over here._
 
 // Possible features. 
 // Match the Queen and King to two other heroes in your group. 
@@ -66,6 +71,8 @@ Increase the supply limit for the group by X.
 When you _draw knowledge_, you can decide to produce the Ace. 
 Bring it back to your sleeve when you reshuffle the deck. 
 
+*Focused knowledge.*
+Remove the 2 and 3 from your deck permanently. 
 
 == Associated tracks
 
@@ -97,8 +104,10 @@ SP: Confirmed, preferred rework. However, should be on a TRACK. Default rogue ro
  The "track" rogue could get an alternate version where you always flip a card. 
 */
 
-*Whenever you roll a test, draw a card.* 
-// Knave doubles down on the deck feature. 
+==== Skills
+
+*Rush of adrenaline.*
+When you mark stress to _draw knowledge_ during a battle, you can _draw knowledge_ without marking stress until the battle ends. 
 
 
 === Bard

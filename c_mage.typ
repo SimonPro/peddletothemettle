@@ -12,6 +12,10 @@ Magic is incredible and everyone else wishes they got the letter to go and study
 You're a wizard, hurray, so that is exactly what you do. 
 Play this class to access a wide range of spells. 
 
+Weapon die: 1d4
+Stress limit: 3
+Injury limit: 8
+
 You have Advantage on tests: (Pick 3)
 - Of knowledge. 
 - Of perceptiveness. 
@@ -55,6 +59,18 @@ Soaking ray.
 Entangling ray. 
 Knockback ray. 
 Basically roll 1d6i and mark stress to introduce that threat for free. 
+*/
+
+*Spellcasting proficiency.*
+Whenever you cast a spell, roll 1d6. 
+If the result is 5 or 6, choose one effect: 
+ - Reroll one damage die dealt by it
+ - If you must mark stress to cast the spell, do not mark that stress. 
+ - If the spell introduces a threat, increase it instead (more than one). 
+/* Heightened magic table? Cast a spell, and mark stress to get an effect based on the 1d6 roll. 
+1: Nothing happens. 
+2-5: If the spell has you roll other dice (damage, healing or something else), you can reroll one die and keep the new result. 
+6: Do not mark any stress you otherwise would upon casting the spell, including to heighten magic. 
 */
 
 *Magical ritual.*
