@@ -5,91 +5,78 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 
 == Martial Specialties
 
-=== Opportunist fighting
+=== Reliable fighting (Fighter)
+[ ] Threat Affinity : Open
 [ ] +1 Dice
 [ ] Reliable test (2): Strength tests
 [ ] +1 Dice Size
-[ ] +2 Dice on *Open* Enemies 
 [ ] Stress Action: Feint / Topple : roll attack + inflict *Open*
+[ ] Stress Action: Hand to Hand, melee attack; divide your dice pool in d4 (rounded up) 
+[ ] Stress Action: Attack with +2 Dice on *Open* Enemies 
+[ ] Passive : if doubles are rolled, mark stress, multiply by the damage by 2
+[ ] Passive : if a small straigt is rolled, mark stress, multiply the damage by 3
 
-=== High impact attacks
+
+=== Hunter (Ranger)
+[ ] Threat Affinity: Trap
 [ ] +1 Dice
 [ ] Passive: When you alter fate, you may mark stress and choose one dice to reroll at max value 
 [ ] +1 Dice Size
-
-=== Defensive fighting
-[ ] +1 Armor
 [ ] Reliable test (2): Dexterity tests
-[ ] +1 Armor
-
-=== Trapper 
-[ ] Passive: Attack against trap ennemies are d12 
-
-=== Hand to hand combat
-[ ] Stress Actions: Attack with your dice pools divided in d4 
-[ ] Passive : if doubles are rolled, multiply by the damage by 2
-[ ] Passive : if a small straigt is rolled, multiply the damage by 3
-
-=== Berserker
+[ ] Reliable test (2): Perception tests
+[ ] Passive: *trap* ennemies cannot move 
+[ ] Passive: Attacks against *trap* ennemies are d12 
 [ ] +1 Dice Size, 
-[ ] Passive: always *open*, if you roll a max value is rolled, explode that dice
+[ ] Passive: if you roll a max value is rolled, explode that dice
 [ ] +1 Dice
 
-=== Tactician
-[X] Passive: Weak hit are strong hit in the test of the mettle
-[ ] +1 dice size
-[ ] Reliable test (4): Planning;  enemy weekness (inflict *Open*)
-[ ] Draw Knowledge when you fight an enemy
 
-=== Assassin 
-[ ] 
-[ ]
-[ ] Draw knowledge when you learn something about an enemy
-
+=== Defensive fighting (Guard)
+[ ] Threat Affinity: Dread
+[ ] Threat Affinity: Fool
+[ ] +1 Armor
+[ ] +1 Armor
+[ ] Reliable test (2): Strength tests
+[ ] Reliable test (2): Dexterity tests
+[ ] Stress Action : Taunt - Take any number of damage dice and inflict *Open* on each foe in your melee group,
+[ ] Stress Action : Turtoise mode - add +2 armor for one turn
 
 
 == Magical spcialties
-Affinity for a specific threat: Mark stress to add an ambient threat of that type.
 
-
-=== Ice elemental magic
+===  Elemental magic (Sorcerer)
 [ ] Affinity for Ice
-[ ] Ice Spell Protection (Convoque Affinity) : Remove one attack die from an attack against you or an ally
-[ ] Ice Spell Attack (Convoque Affinity): Inflict *Trap* on an *Ice* target,  Inflict *Ice* otherwise. Then deals create a dice pool of 1d for each *Ice*  
-[ ] Ice Rituals
-
-=== Herald
-[ ] Affinity for 2 threat
-[ ] Affinity rally (Convoque Affinity) : if ally is affected by chosen threat, for the next turn all dice rolled for an ally are d12
-[ ] Affinity soothe (Convoque Affinity) : for the next turn, ignore all threats of the chosen type, restore one stress 
-[ ] Ceremonial rituals
-
-
-=== Water magic
-[ ] Affinity for Water
-[ ] Convoque affinity: Water - Your vessel performs the following actions: Healing (heal one character by vessel dice pool)
-[ ] Convoque affinity: Water - Your vessel performs the following actions: Curing (removes one *blight* or *dread* from a character)
-[ ] Water attack 
-[ ] Water Rituals
-
-=== Fire elemental magic
 [ ] Affinity for Fire
-[ ] Convoque affinity: Fire - Your vessel performs the following actions: Blinding light (inflict *Fool* and ends)
+[ ] Affinity for Water
+[ ] Spell - Heal (Convoque affinity: *Water*) Healing (heal one character by vessel dice pool)
+[ ] Spell - Cure (Convoque affinity: *Water*) (removes one *blight* or *dread* from a character)
+[ ] Spell - Protection (Convoque Affinity: *Ice* ) : Remove one attack die from an attack against you or an ally, inflict *cold* to that target
+[ ] Spell - Icicle (Convoque Affinity: *Ice*): Inflict *Trap* on an *Ice* target,  Inflict *Ice* otherwise. Then deals create a dice pool of 1d for each *Ice*
+[ ] Spell - Thunderbolt (Convoque affinity: *Fire*) - Cares about open, deal high damage or inflict *Fool* and ends.
+[ ] Spell - (Convoque affinity: *Fire*) - Your vessel performs the following actions: Blinding light (inflict *Fool* and ends)
+[ ] Ice Rituals
+[ ] Water Rituals
+[ ] Fire Rituals
 
 
-=== Necromancy
-[ ] Affinity for Dread / Blight
-[ ] Convoque affinity: Dread - Your vessels becomes undead and attacks using Vessel Dice Pool
+=== Gospel magic (Herald)
+[ ] Affinity for 2 threat
+[ ] (Convoque affinity: Dread) - Your vessels becomes undead and attacks using Vessel Dice Pool
+[ ] Spell - Poison (Convoque affinity: Blight) - Decrease a foe action dice by 1d for one turn
+[ ] Spell - Rally (Convoque Affinity: *Any*) : if an ally is affected affined threat, for the next turn all dice rolled for this ally are d12
+[ ] Spell - Soothe (Convoque Affinity: *Any*) : if ally is affected affined threat,for the next turn, ignore all threats of the chosen type, restore one stress to that ally 
 [ ] Ceremonial Rituals 
-
-=== Artificer
-[ ] Affinity for fire + trap
-[ ] 
 
 
 == Knowledge specialties
 
+=== The Aces
+[ ] Affinity for 2 threat
+[ ] Ceremonial rituals
+
+
 === Socialite
+[ ] Affinity for fool
 [ ] Draw knowledge when you gossip
 [ ] Reliable test (2) : Influence and persuasion
 [ ] Apply Knowledge (Cups / Hearts) : Reliable test (4) : Influence using Emotions, apply *fool*
@@ -98,20 +85,29 @@ Affinity for a specific threat: Mark stress to add an ambient threat of that typ
 [ ] Apply Knowledge (Wands / Clubs) : Reliable test (4) : Influence using Leadership, apply *open*
 
 === Herborist
+[ ] Affinity for *Blight* and *Water*
 [ ] Draw knowledge when you observe a creature
 [X] Passive: When removing a threat, you also remove one stress
 [ ] Mark Supply: create an healing potion
+[ ] Stress action: Use 2 concoctions
 [ ] Reliable test: Foraging (4) (add supply)
 [ ] Apply Knowledge (Cups / Hearts) : Create a potion that Soothe (remove *Fire*, *blight*, *dread*, *fool* on character)
 [ ] Apply Knowledge (Swords / Spades) : Create a potion that Booms (inflict *Fire*, *blight*, *dread*, *dark*, *fool* on a target) 
 [ ] Apply Knowledge (Pentacles / Diamonds) : Create a potion that Fortifies  (Armor 2)
 [ ] Apply Knowledge (Wands / Clubs) : Overdrive (applies *fire*, *blight*, *fool*, +1 dice size) for combat
 
-=== Diviner
+=== Diviner / Seer 
 [ ] Draw knowledge when you meditate
 [ ] Seen that before : Mark stress to introduce an ambient threat (I've already seen this situation and this was there)
-[ ] Apply Knowledge (cups / Hearts) : Softer fate - ambient threat -3 
-[ ] Apply Knowledge (Swords / Spades) : Harder fate - ambient threat + 3
-[ ] Apply Knowledge (Pentacles / Diamonds) : Improves fate - Improves treasure by one step 
-[ ] Apply Knowledge (Wands / Clubs) : Get a surprise round for combat
+[ ] Apply Knowledge (Swords / Spades) / (Convoque Affinity) : Visions - ambient threat ± 1
+[ ] 
+Apply Knowledge (Wands / Clubs) : Get a surprise round for combat
+
+
+=== Tactician
+[X] Passive: Weak hit are strong hit in the test of the mettle
+[ ] +1 dice size
+[ ] Reliable test (4): Planning;  enemy weekness (inflict *Open*)
+[ ] Draw Knowledge when you fight an enemy
+
 

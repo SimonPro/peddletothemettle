@@ -49,3 +49,5 @@ Armors usage requires Training that come from specialty. They reduce the damage 
   // [Ring of Protection], [A magical silver ring], [+1 Defense], [Rare],
 )
 
+== Consumables
+
