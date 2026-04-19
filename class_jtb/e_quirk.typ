@@ -1,3 +1,0 @@
-== Quirk
-
-Mantra

@@ -27,7 +27,7 @@ Understanding threats help us predict them, and even control them. Knowledge is 
 
 Mark Stress: Draw Knowledge
 Mark Stress: Apply Knowledge
-Restore stress by: Learning something
+Restore stress by: Teaching something
 
 === Draw Knowledge
 When a situations allows you to draw knowledge, you draft one of the top 3 cards of a (Tarot / Normal) deck and choose one to keep. This card can be expanded to change the outcome of a dice roll. Beware of the number 13.
