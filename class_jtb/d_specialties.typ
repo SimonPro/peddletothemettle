@@ -68,8 +68,8 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 [ ] Affinity for *Dark*
 [ ] Spell - Mirage 
 [ ] Spell - Shadow step (Convoque affinity: *Dark*) - Teleport to an area in your line of sight, inflict *Dark* on the area you left and the area you arrive at. 
-[ ] Spell - Fear of the dark (Convoque affinity: *Dark*) - Inflict *Dread* on a target and creates a dice pool of 1d for each *Dread* on that target
-Enemies that end their turn in an area affected by *Dark* suffer 1d damage and are marked with *Dark*.
+[ ] Spell - Fear of the dark (Convoque affinity: *Dark*) - Inflict *Dread* on a target and creates a dice pool of 1d for  *Dread* x *dark* on that target
+[ ] Passive Enemies that end their turn in an area affected by *Dark* suffer 1d damage and are marked with *Dark*.
 [ ] Illusions rituals
 [ ] Telekinesis, Telepathy and Teleportation rituals
 [ ]
