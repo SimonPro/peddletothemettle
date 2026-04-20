@@ -6,11 +6,10 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 == Martial Specialties
 
 === Reliable fighting (Fighter)
-[ ] Threat Affinity : Open
 [ ] +1 Dice
 [ ] Reliable test (2): Strength tests
 [ ] +1 Dice Size
-[ ] Stress Action: Feint / Topple : roll attack + inflict *Open*
+[ ] Stress Action: Feint / Topple : melee attack + inflict *Open*
 [ ] Stress Action: Hand to Hand, melee attack; divide your dice pool in d4 (rounded up) 
 [ ] Stress Action: Attack with +2 Dice on *Open* Enemies 
 [ ] Passive : if doubles are rolled, mark stress, multiply by the damage by 2
@@ -18,7 +17,6 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 
 
 === Hunter (Ranger)
-[ ] Threat Affinity: Trap
 [ ] +1 Dice
 [ ] Passive: When you alter fate, you may mark stress and choose one dice to reroll at max value 
 [ ] +1 Dice Size
@@ -32,32 +30,49 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 
 
 === Defensive fighting (Guard)
-[ ] Threat Affinity: Dread
-[ ] Threat Affinity: Fool
 [ ] +1 Armor
 [ ] +1 Armor
 [ ] Reliable test (2): Strength tests
 [ ] Reliable test (2): Dexterity tests
-[ ] Stress Action : Taunt - Take any number of damage dice and inflict *Open* on each foe in your melee group,
+[ ] Stress Action : Cover - Take any number of damage dice and inflict *Open* on each foe in your melee group,
+[ ] Stress Action : Taunt - Next turn, all attacks against you have +1 dice, inflict *Open* on each of those attacks
 [ ] Stress Action : Turtoise mode - add +2 armor for one turn
+
+=== Tactical fighting (Tactician)
+[ ] +1 Dice Size
+[ ] Reliable test (4): Planning; find enemy weekness (inflict *Open*)
+[ ] Advantage test of the mettle
+[ ] Passive: Weak hit are strong hit in the test of the mettle
+
 
 
 == Magical spcialties
 
 ===  Elemental magic (Sorcerer)
-[ ] Affinity for Ice
-[ ] Affinity for Fire
-[ ] Affinity for Water
+[ ] Affinity for *Ice*
+[ ] Affinity for *Fire*
+[ ] Affinity for *Water*
 [ ] Spell - Heal (Convoque affinity: *Water*) Healing (heal one character by vessel dice pool)
 [ ] Spell - Cure (Convoque affinity: *Water*) (removes one *blight* or *dread* from a character)
 [ ] Spell - Protection (Convoque Affinity: *Ice* ) : Remove one attack die from an attack against you or an ally, inflict *cold* to that target
 [ ] Spell - Icicle (Convoque Affinity: *Ice*): Inflict *Trap* on an *Ice* target,  Inflict *Ice* otherwise. Then deals create a dice pool of 1d for each *Ice*
 [ ] Spell - Thunderbolt (Convoque affinity: *Fire*) - Cares about open, deal high damage or inflict *Fool* and ends.
-[ ] Spell - (Convoque affinity: *Fire*) - Your vessel performs the following actions: Blinding light (inflict *Fool* and ends)
+[ ] Spell -  Blinding light (Convoque affinity: *Fire*) - Your vessel performs the following actions: (inflict *Fool* and ends)
 [ ] Ice Rituals
 [ ] Water Rituals
 [ ] Fire Rituals
 
+=== Astral Magic (Wizard) (Illusionnist / Psionist)
+[ ] Affinity for *Open*
+[ ] Affinity for *Fool*
+[ ] Affinity for *Dark*
+[ ] Spell - Mirage 
+[ ] Spell - Shadow step (Convoque affinity: *Dark*) - Teleport to an area in your line of sight, inflict *Dark* on the area you left and the area you arrive at. 
+[ ] Spell - Fear of the dark (Convoque affinity: *Dark*) - Inflict *Dread* on a target and creates a dice pool of 1d for each *Dread* on that target
+Enemies that end their turn in an area affected by *Dark* suffer 1d damage and are marked with *Dark*.
+[ ] Illusions rituals
+[ ] Telekinesis, Telepathy and Teleportation rituals
+[ ]
 
 === Gospel magic (Herald)
 [ ] Affinity for 2 threat
@@ -68,14 +83,17 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 [ ] Ceremonial Rituals 
 
 
+
 == Knowledge specialties
 
 === The Aces
-[ ] Affinity for 2 threat
-[ ] Ceremonial rituals
+[ ] 
+
+=== The Knaves
+[ ] 
 
 
-=== Socialite
+=== Socialite  (Cares about suit)
 [ ] Affinity for fool
 [ ] Draw knowledge when you gossip
 [ ] Reliable test (2) : Influence and persuasion
@@ -84,17 +102,14 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 [ ] Apply Knowledge (Pentacles / Diamonds) : Reliable test (4) : Influence using Bribes, apply *fool*
 [ ] Apply Knowledge (Wands / Clubs) : Reliable test (4) : Influence using Leadership, apply *open*
 
-=== Herborist
+=== Herborist (Cares about numbers)
 [ ] Affinity for *Blight* and *Water*
 [ ] Draw knowledge when you observe a creature
 [X] Passive: When removing a threat, you also remove one stress
 [ ] Mark Supply: create an healing potion
 [ ] Stress action: Use 2 concoctions
 [ ] Reliable test: Foraging (4) (add supply)
-[ ] Apply Knowledge (Cups / Hearts) : Create a potion that Soothe (remove *Fire*, *blight*, *dread*, *fool* on character)
-[ ] Apply Knowledge (Swords / Spades) : Create a potion that Booms (inflict *Fire*, *blight*, *dread*, *dark*, *fool* on a target) 
-[ ] Apply Knowledge (Pentacles / Diamonds) : Create a potion that Fortifies  (Armor 2)
-[ ] Apply Knowledge (Wands / Clubs) : Overdrive (applies *fire*, *blight*, *fool*, +1 dice size) for combat
+
 
 === Diviner / Seer 
 [ ] Draw knowledge when you meditate
@@ -104,7 +119,7 @@ When a hero progresses, he can choose to acquire specialised skill. [ ] skills a
 Apply Knowledge (Wands / Clubs) : Get a surprise round for combat
 
 
-=== Tactician
+=== Tactician (Cares about numbers)
 [X] Passive: Weak hit are strong hit in the test of the mettle
 [ ] +1 dice size
 [ ] Reliable test (4): Planning;  enemy weekness (inflict *Open*)
