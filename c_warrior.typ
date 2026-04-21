@@ -28,7 +28,7 @@ Play this class to dish it out and take it.
 /* SP: J'aime l'idée de laisser faire la relation arme:dégâts mais alors le choix d'arme peut venir avec une abilité, un range, etc. 
 Le chassis de base du warrior sera super simple, plus de health, plus de recovery. */
 Weapon die: 1d8
-Stress limit: 3
+Stress limit: 4
 Injury limit: 14
 
 Reroll 1s and 2s on tests: (Pick 3)
@@ -43,7 +43,7 @@ When you roll a weapon die, you can mark stress to roll a second one of the same
 
 *Quick recovery.*
 Whenever the heroes mark Supply to rest, roll an additional 1d6. 
-Clear that many injuries, but only for yourself. 
+Clear that many injuries or stress, but only for yourself. 
 
 
 == Associated tracks

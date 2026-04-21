@@ -74,6 +74,9 @@ Bring it back to your sleeve when you reshuffle the deck.
 *Focused knowledge.*
 Remove the 2 and 3 from your deck permanently. 
 
+*Regal results.*
+The Queen is now worth 12, and the King 13. 
+
 == Associated tracks
 
 === Knave
@@ -83,7 +86,7 @@ Everyone loves a charming rogue, a brooding assassin, a morally grey mercenary w
 Play this class to get up to all sorts of shenanigans. 
 
 *Knave's specialty.*
-Gain a feature based on your chosen suit: 
+Choose a suit: 
  - *Hearts*. Gain Advantage on tests to _seduce into revealing secrets_. 
  _Darling, I'm so sweet and flush with gold they call me honeypot._
  - *Spades*. A dubious item, a worrying blood smear, a corpse --- there is always a convenient spot to bury evidence. 

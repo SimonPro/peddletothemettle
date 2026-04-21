@@ -37,8 +37,9 @@ Write two mantras that players can repeat or respond to, one per heralded threat
 Teach them to the other players. 
 
 At any time, speak a mantra, then choose one: 
- - Grant Advantage to yourself or a character attempting a test, if the player responds. 
- - Clear a stress, or allow a character to clear a stress, if the player responds. 
+ - Grant advantage on a test, for yourself or someone else if they respond. 
+ Mark stress to grant advantage to all heroes on a test, for instance a test of mettle. 
+ - Clear a stress, for yourself or someone else if they respond. 
  - Introduce or clear an ambient heralded threat. This change occurs in your vicinity and ends when you leave. 
 
 You can speak each mantra once, and must rest before you do it again. 
@@ -65,6 +66,9 @@ Name a devoted object you carry. A religious icon, a musical instrument, perhaps
 When you wield it, 
  - You can *Smite* a foe. 
  - all tests you attempt are reliable (1, 2) under an ambient heralded threat. 
+
+*Bask in the glory.*
+Under an ambient heralded threat, you can clear a stress on one hero each turn. 
 
 
 == Associated tracks

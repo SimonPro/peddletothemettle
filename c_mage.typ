@@ -28,9 +28,10 @@ When you cast a spell, mark stress to do one of:
 You carry a wand, staff, orb, magical sword, book, or similar item through which your spells are focused. 
 When you wield your implement and mark stress to cast a spell, you can _heighten magic_ once without marking an additional stress. 
 
-*Powerful rituals.*
+*Complex rituals.*
 Some advancement tracks grant the ability to mark Supply to conduct a _ritual_. 
 When you do, you can conduct two different rituals instead of only one. 
+// Encourage à aller chercher au moins 2 tracks qui donnent des rituels. 
 
 === Advanced skills
 
