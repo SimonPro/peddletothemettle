@@ -36,8 +36,9 @@ She can bring forth spectral locusts to blight her enemies, or sow a cleansing d
 Write two mantras that players can repeat or respond to, one per heralded threat. 
 Teach them to the other players. 
 
-At any time, mark stress to speak a mantra, then choose one: 
+At any time, speak a mantra, then choose one: 
  - Grant Advantage to yourself or a character attempting a test, if the player responds. 
+ - Clear a stress, or allow a character to clear a stress, if the player responds. 
  - Introduce or clear an ambient heralded threat. This change occurs in your vicinity and ends when you leave. 
 
 You can speak each mantra once, and must rest before you do it again. 
@@ -46,14 +47,14 @@ Fire: _Fireball!_: (audience) _Taaa, ta ta, da ta da_
 Trap: _Swords out for our Lord Aramde_: (audience repeats after you, thumping their chests)
 Water: _Praise be to Jess_: (audience) _Goddess of fertility and moist cupcakes._
 
-*Smite.*
-Once each turn as an action, you can smite a close foe. 
-Deal 1d8i per heralded threat on it. 
-
 ==== Skills
 *Protection.*
 Once each turn, you can clear a heralded threat. 
 You can also mark stress to become immune to that threat for a short time. 
+
+*Smite.*
+Once each turn as an action, you can smite a close foe. 
+Deal 1d8i per heralded threat on it. 
 
 *Expanded mantras.*
 Add as an option: 

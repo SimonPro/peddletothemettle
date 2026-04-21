@@ -39,11 +39,11 @@ Reroll 1s and 2s on tests: (Pick 3)
 - To make creative use of any weapon. 
 
 *Heavy hitter.*
-When you roll a weapon die, you can mark stress to reroll it. 
+When you roll a weapon die, you can mark stress to roll a second one of the same size. 
 
 *Quick recovery.*
 Whenever the heroes mark Supply to rest, roll an additional 1d6. 
-Clear that many injuries or stress, but only for yourself. 
+Clear that many injuries, but only for yourself. 
 
 
 == Associated tracks
