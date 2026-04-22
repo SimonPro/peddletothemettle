@@ -14,7 +14,7 @@ Injury limit: 10
 
 *Heralded threats.* Choose two of the following threats that best reflect the nature of what you follow or worship, or what they protect from. 
 They are your two _heralded threats_. 
-As an action, you can always introduce a heralded threat, or clear it on a close target without any justification. 
+As an action, you can always add a heralded threat, or clear it on a close target without any justification. 
 Instead rely on a supernatural explanation. 
 
 Blight | Healing and disease, nature, decay
@@ -40,7 +40,7 @@ At any time, speak a mantra, then choose one:
  - Grant advantage on a test, for yourself or someone else if they respond. 
  Mark stress to grant advantage to all heroes on a test, for instance a test of mettle. 
  - Clear a stress, for yourself or someone else if they respond. 
- - Introduce or clear an ambient heralded threat. This change occurs in your vicinity and ends when you leave. 
+ - Add or clear an ambient heralded threat. This change occurs in your vicinity and ends when you leave. 
 
 You can speak each mantra once, and must rest before you do it again. 
 
@@ -143,9 +143,9 @@ _The roots began to slowly coil around its ankles..._
 Rotting touch. (1+Blight)d6i, consume Blight to roll d8 instead of d6. 
 Mark Stress to accelerate the rotting process by a few years, possibly rotting a wooden away from its hinges. 
 
-Fireflies. Introduce Fire, clear ambient Dark. Advantage to spot the target. 
+Fireflies. Add Fire, clear ambient Dark. Advantage to spot the target. 
 
-Winter wind. Introduce Cold, (Cold)d10i. If being blown away a short distance could be highly dangerous to the target (falling off a cliff), it happens on 8+. 
+Winter wind. Add Cold, (Cold)d10i. If being blown away a short distance could be highly dangerous to the target (falling off a cliff), it happens on 8+. 
 
 Reliable tests: Influence animals
 

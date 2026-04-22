@@ -53,31 +53,40 @@ a roll can benefit from *Advantage* or *Disadvantage*.
 Roll an additional twelve-sided dice beyond the first two, and discard the highest (Disadvantage) or lowest (Advantage) roll(s) until two dice remain. 
 More dice can be rolled if there are multiple reasons for (Dis)Advantage, and they cancel each other out when they both apply. 
 
+/*
 === Overlevel
-/* What will scale? What should improve per level? Not damage, not roll results, ... so we need a mechanic. */
-When a hero attempts a test and the Difficulty is lower than their level, mark Stress to gain advantage. 
+/* What will scale? What should improve per level? Not damage, not roll results, ... so we need a mechanic. 
+Probably better to scale off mettle roll and action economy? */
+When a hero attempts a test and the Difficulty is lower than their level, mark stress to gain advantage. 
 You can do this multiple times on the same test. 
-(Obviously useless at lower levels, but is key at higher levels.)
-
+// Obviously useless at lower levels, but is key at higher levels.
+*/
 
 = THREATS
 /* Fire, Water, Dark, Trap, Cold, Open, Dread, Blight, Fool */
 
 === Wording
-Ambient threat: Threats that are *ambient* reflect environmental conditions. 
-They are in the background. 
-Unless a feature references ambient threats directly, they cannot be changed or affected. 
-However, they *do* apply when conditions are checked to determine if a threat is present on a target, and how many. 
 
-Inflict a threat: Add a threat directly to a target, that it did not previously have. Ambient threats are ignored for this purpose. 
+*Add.*
+_Add_ a threat by marking a creature with it. 
+Write it alongside its name on paper, slide a token next to it, you decide. 
 
-Increase a threat: Just like Inflict a threat, but the same threat can be added more than once, up to 3. 
-/* Inflict, increase is intended as a balancing mechanism to avoid spamming the same threat by everyone; makes little narrative sense. */
+The same threat can be added more than once, up to 3. 
+If you would add the same threat a fourth time, just ignore it. 
 
-Clear a threat: Remove one threat from play, unless it is ambient. 
-It is also possible to clear a threat on someone else. 
-Clearing a threat removes just one threat, not a stack of the same type. 
+*Clear.*
+_Clear_ erases one threat, the opposite of adding them. 
 
-Shift a threat: Clear a threat, then Add the same threat to a different target. 
+*Trade.*
+To _trade_ a threat, clear it first, then apply whatever effect is granted by the trade. 
+
+*Ambient.*
+_Ambient_ threats reflect environmental conditions, in the background. 
+
+Unless mentioned directly, ambient threats cannot be added, cleared, traded, or otherwise changed. 
+However, they *do* apply to determine if a threat is present, and they are included when a threat *count* is made. 
+
+/* If a skill allows you to do something when your target is threatened by Dark, you can under ambient Dark. 
+If it lets you trade Dark to do something else, you can't unless it is directly stated that ambient threats can be traded. */
 
 Fiction first: Notice the lack of a rule on darkness and visibility in "Dark 3". They should have a torch!

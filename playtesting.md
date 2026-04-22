@@ -27,7 +27,6 @@ Suite aux commentaires pertinents d'hier, jtrouve que ça clean up pas mal mes i
 **Threat management**
 - Fool = Open + Cover + Dark (as discussed)
 - Pas sur de bien comprendre le jargon autour
-  - Introduce c'est tu quand elle n'existe pas déjà? Est-ce que c'est au ambiant level ou targetet
   - Avoir un concept d'enlever à un allié, ajouter à un ennemi, enlever à un ennemi (Clear, Inflict, Consume) ?
     - J'ai essayé d'être cohérent avec les mots que j'utilisais reste a savoir comment on bridge ça avec ton vocabulaire
 

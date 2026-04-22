@@ -101,6 +101,10 @@ _You can find me in the tavern, it's my birthday._
 Add the Knave of your suit to your deck. 
 You are the Knave; you succeed automatically, just like the Ace. 
 
+*Sneak attack.*
+When you attack with a weapon, trade any one of Dark, Open, or Fool for 1d8i. 
+
+
 /* Or rework so that the knave doesn't roll 2d12, but instead 1d12 AND flips a card Ace-2 to 10-Knave + Joker. Knave counts as 12. Joker counts as any number you want. 
 SP: Confirmed, preferred rework. However, should be on a TRACK. Default rogue rolls dice normally MOST OF THE TIME, 
  but still engages in luck manipulation by using the side deck in some situations. 
@@ -114,7 +118,7 @@ When you mark stress to _draw knowledge_ during a battle, you can _draw knowledg
 
 
 === Bard
-Spout lore: Introduce a threat with your first test of mettle test each battle. 
+Spout lore: Add a threat with your first test of mettle test each battle. 
 Dirge: Add an ambient Dread. When *an ally* roll i on a target, clear Dread to deal 1d6i extra. 
 
 
@@ -162,7 +166,7 @@ Will shape the battlefield to their advantage
 === Diviner
 1. Draw knowledge when "Meditating"
 1. Card gimmick:
-  0. Major Arcana : introduce an associated threat (I've already seen this situation and this was there)
+  0. Major Arcana : Add an associated threat (I've already seen this situation and this was there)
   1. Raise / Lower / replace any roll by drafted card value (I've seen this moment, this is how it went)
 
 == Ideas for skills
@@ -175,7 +179,7 @@ Upgrade. Dark or Fool threats on you also grant Advantage, one for one.
 
 Confounding attacks. 
 When you attack, mark Stress to do one: 
- - introduce one of Dark, Open or Fool. 
+ - Add one of Dark, Open or Fool. 
  - clear Dark, Open or Fool on the target to also roll 1d12i. 
 Upgrade: Under ambient Dark, Open or Fool, 2d12i. 
 

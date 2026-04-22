@@ -25,13 +25,13 @@ Move: Get somewhere far.
 
 Interact: With your equipment or the environment. 
 
-Defend: Reroll a damage die on you, keeping the new result if lower OR Shift a damage die from a close ally to you. 
+Defend: Reroll a damage die on you, keeping the new result if lower OR bring a damage die from a close ally to you. 
 
 Attack. Deal 1d4i close to you, with your fists or an improvised weapon. 
 Weapons grant an Attack ability that overrides this one. 
 /* No limit to multiple attacks, just have to make introducing or clearing threats a priority. */
 
-Introduce a threat. The best suited one based on your description. 
+Add a threat. The best suited one based on your description. 
 
 Blight - Let your poisoned weapon take effect. 
 Cold - Rip off their fur cloak. 
