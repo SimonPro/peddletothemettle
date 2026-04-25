@@ -1,6 +1,6 @@
 = ADVENTURES
 /* Main adventuring rules, environments, ambient threats, resupplying, etc. 
- All non-core rules. */
+All non-core rules. */
 
 
 /*
@@ -14,7 +14,6 @@ Les 12 travaux d'Hercule en version ttrpg?
 Explorations extraplanaires toujours dans des environnements plus extrêmes?
 
 On pourrait donc enlever le focus de l'or/richesse/marchander. 
-
 */
 
 Do not precisely measure time or distances. 
@@ -52,25 +51,31 @@ GOLD
 100 The deed to a house, a small dragon's cache, the services of an entire company of mercenaries for a week. 
 1000 The deed to a mansion or small keep, a grown dragon's cache, a rare magical item. 
 
-== Rest & supplies
+== Supply & Rest
 
-The heroes have one shared resource: *Supply*. 
+*Supply* is a resource shared by the heroes, and has a limit of *10* by default. 
 This is a rough abstraction of the camping gear, food, water, bandages and everything else they lug around. 
-They can mark Supply up to a limit of *10*. Improve this limit by: 
- - *5* for each horse, camel or similar that travels with them. 
- - *50* for a ship. 
 
-Whenever the heroes feel it is appropriate, they can mark 1 Supply to: 
-- Produce some reasonable item or multiples of a small item, as though it was provisioned earlier. Snowshoes? A rope ladder? A few torches for everyone? Arrows? A potion of healing? If it costs gold, pay now. 
-- Rest. Injuries and stress are reset back to zero. (Maybe a roll, make it less good.)
-The heroes can do so anywhere they could reasonably sit down at least a short time to eat and drink. 
-At the table, the players should also stay hydrated --- drink!
+Improve this limit by *5* for each horse, camel, canoe, cart, and similar means to lug _more_ stuff around.  
+Drop the Supply limit accordingly if they become separated from those mounts or items. 
+
+The heroes can mark Supply to *rest*: 
+Each player rolls a rest die or dice, as per the table below, and pool them at the center of the play area. 
+Then, spend each die on clearing that many injuries or that much stress on a character, however the players decide to. 
+
+Situation | Rest die
+At least a short time to sit, away from immediate danger | 1d6
+At least enough time to eat and nap, if uncomfortably | 2d6
+At least a proper camp with warm meals and somewhere comfortable to sleep | 3d6
+At least a few days spent at camp, away from any real danger | 4d6
+
+_The characters huddle together, sharing food and drink, a song, caring for injuries --- their own, or a friend's._
 
 Supplies are generally replenished by being purchased. 
-The cost is irrelevant, but finding a seller is. 
-The heroes could buy a meal at an inn and ask for some travel rations -- that could justify a few fresh supplies. 
-Raiding a poor farmer's hovel might fetch one supply too, as would hunting a deer and turning it into a kettleful of meat stew. 
+The cost is irrelevant, but finding a seller is not. 
+Raiding a poor farmer's hovel might fetch one supply, as would turning foraged potatoes into a stew. 
 
+Nothing prevents the heroes from repeating a meager and short rest to fully clear their injuries and stress, but their Supply will quickly dwindle. 
 
 === Definitions for ambient threats. 
 Fire

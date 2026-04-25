@@ -49,15 +49,15 @@ When you attempt a test, you can reroll until each die is at least equal to a mi
 
 Overall list of reliable tests
 
-Physical strength
-Speed and agility
-Stamina and resolve
-Reasoning and knowledge 
+Strength: Physical strength
+Agility: Speed and agility
+Fortitude: Stamina and resolve
+Intellect: Reasoning and knowledge
 Insight and influence
-Bravery and persuasion
-Stealth and duplicity
-Perception
-Authority and coercion
+Bravery: Bravery and persuasion
+Trickery: Stealth and duplicity
+Perception: Perception
+Influence: Authority and coercion
 
 or other twists: 
 Sacrifice and selfnessness 
