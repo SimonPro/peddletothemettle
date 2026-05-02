@@ -40,12 +40,6 @@ _Dedicated to one form of destructive magic._
 Affinities Choose one of Fire, Cold, or Blight. Substitute with _Affinity_. 
 Difficulty 4
 
-<<<<<<< Updated upstream
-*Goblin crew* (Level 1)
-Affinities Dark, Fool
-=======
-_Mettle_
-
 
 _Settle_
 Consumed by its own magic to madness or death at 20i. 
@@ -73,39 +67,21 @@ Any damage die higher than 5 drops to 5.
 Heroes with Dread must reroll all damage dice showing 1. 
 Scatter and flee at 20i or 8 threats. 
 
-<<<<<<< Updated upstream
-*Goblin crew* (Level 1, affinities Dark, Fool)
-=======
+
 *Goblin crew* (Level 1)
 _Ragtag band of foul, small goblins wielding rusty knives._
 Affinities Dark, Fool
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 Difficulty 4
 
 _Mettle_
 Ignore threats that only reasonably apply to one goblin. 
 1d6 + lvl difference
-<<<<<<< Updated upstream
-\<1: Witness a confused, messy attack. | 1d6i and clear a threat. 
-=======
-<<<<<<< Updated upstream
-\<1: Witness a confused mess. 1d6i and clear a threat. 
-1-2: Remain *steadfast* despite the mad shrieks and rusty knives. Introduce Dread or Fool, clear a threat, split up 2d6i.
-3-4: *Spot* them skulking in shadow and behind cover. Split up 2 Fool and 3d6i. 
-5-6: *Forcefully push* away a focused attack. (3+Fool)d6i, consume Fool. 
-7+: As 1-2, twice.
-=======
+
 \<1: Witness a confused, messy attack. | 1d6i; clear a threat. 
->>>>>>> Stashed changes
 1-2: Remain steadfast despite the mad shrieks and rusty knives. | Dread, split 2d6i.
 3-4: Spot them skulking in shadow and behind cover. | Fool, Dark, split 3d6i. 
 5-6: Shove them away as they make a focused attack. | 3d6i, plus 1d6i if Dark, plus 1d6i if Fool. 
 7+: As 3-4, twice.
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 
 _Settle_
 Clear a threat. 
