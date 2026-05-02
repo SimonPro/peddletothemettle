@@ -5,10 +5,17 @@ In the text, a *hero* is a character played by someone at the table.
 The heroes travel together as a group and ought to give themselves a name. 
 Think along the lines of the _Argonauts_, or the _Knights of the round table_. 
 
-== Stress and Injury limits
-Heroes and foes in the story can sustain stress and injury, up to a limit. 
-When the injuries suffered by a hero goes past its injury limit, it is dying. 
-When a hero marks a Stress and meets its Stress limit, it is unable to mark more Stress until it rests. 
+== Stress and Injury
+Though heroes have no injuries or stress to begin with, they will eventually have to _mark_ them. 
+When you mark *stress*, you usually just mark one. 
+*Injuries* (i) are more numerous, suffered based on results of die rolls. 
+For instance, 2d6i means rolling two six-sided dice, and tallying up a total number of injuries. 
+
+When the total number of injuries suffered by a hero exceed its *injury limit*, it is dying. 
+When a hero has reached its *stress limit*, it is unable to mark more. 
+
+Heroes can rest to _clear_ injuries and stress back to zero, among other methods. 
+_Mark_ and _Clear_ are important keywords. 
 
 /* Are skills needed here?
 Trade: Alchemy, Carpentry, Cooking, Tailoring, First aid, Haggling, and similar. 
@@ -33,10 +40,8 @@ A test has a *difficulty*, often set by the game master, per the following table
   table.hline(stroke: black)
 )
 
-The number should reflect the difficulty for a typical adult person, not that hero in particular. 
-
-== Rolling the test
-The player rolls two twelve-sided dice (2d12) and compares both results to the difficulty. 
+== Rolling a test
+The player rolls two twelve-sided dice (2d12) and compares *both results* to the difficulty. 
 
 If they are lower than the difficulty, the hero *fumbles (\--)*. 
 They do not get what they want, and the situation becomes worse. 
@@ -53,31 +58,55 @@ a roll can benefit from *Advantage* or *Disadvantage*.
 Roll an additional twelve-sided dice beyond the first two, and discard the highest (Disadvantage) or lowest (Advantage) roll(s) until two dice remain. 
 More dice can be rolled if there are multiple reasons for (Dis)Advantage, and they cancel each other out when they both apply. 
 
+/*
 === Overlevel
-/* What will scale? What should improve per level? Not damage, not roll results, ... so we need a mechanic. */
-When a hero attempts a test and the Difficulty is lower than their level, mark Stress to gain advantage. 
+/* What will scale? What should improve per level? Not damage, not roll results, ... so we need a mechanic. 
+Probably better to scale off mettle roll and action economy? */
+When a hero attempts a test and the Difficulty is lower than their level, mark stress to gain advantage. 
 You can do this multiple times on the same test. 
-(Obviously useless at lower levels, but is key at higher levels.)
-
+// Obviously useless at lower levels, but is key at higher levels.
+*/
 
 = THREATS
-/* Fire, Water, Dark, Trap, Cold, Open, Dread, Blight, Fool */
+Nine threats are used to represent various adverse conditions. 
+Threats have no special effect by themselves, but other game rules can check if a threat is absent or present; if so, how many, and so on. 
 
-=== Wording
-Ambient threat: Threats that are *ambient* reflect environmental conditions. 
-They are in the background. 
-Unless a feature references ambient threats directly, they cannot be changed or affected. 
-However, they *do* apply when conditions are checked to determine if a threat is present on a target, and how many. 
+Blight | Poison, disease, miasma
+Cold | Cold weather, night, ice, wind
+Dark | Darkness, visibility impairments
+Dread | Fear, discomfort, panic
+Fire | Fire and smoke, burning sun, heat, burns
+Fool | Confusion, surprise, misperception
+Open | Off guard, prone, exposed, nowhere to hide
+Trap | Accidental injury, dangerous terrain, being stuck
+Water | Water, being wet, drowning risk
 
-Inflict a threat: Add a threat directly to a target, that it did not previously have. Ambient threats are ignored for this purpose. 
+== Using threats
 
-Increase a threat: Just like Inflict a threat, but the same threat can be added more than once, up to 3. 
-/* Inflict, increase is intended as a balancing mechanism to avoid spamming the same threat by everyone; makes little narrative sense. */
+*Add.*
+_Add_ a threat by marking a creature with it. 
+Write it alongside its name on paper, slide a token next to it, you decide. 
 
-Clear a threat: Remove one threat from play, unless it is ambient. 
-It is also possible to clear a threat on someone else. 
-Clearing a threat removes just one threat, not a stack of the same type. 
+The same threat can be added more than once, up to 3. 
+If you would add the same threat a fourth time, just ignore it. 
 
-Shift a threat: Clear a threat, then Add the same threat to a different target. 
+*Clear.*
+_Clear_ erases one threat, the opposite of adding them. 
+
+*Trade.*
+To _trade_ a threat, clear it first, then apply whatever effect is granted by the trade. 
+
+*Ignore.*
+When something or someone _ignores_ a threat, they can decide to ignore any consequence of having that threat on them. 
+Play as though the threat does not exist for them. 
+
+*Ambient.*
+Threats can apply to just one thing or person, but _ambient_ threats reflect environmental conditions, in the background. 
+
+Unless mentioned directly, ambient threats cannot be added, cleared, traded, or otherwise changed. 
+However, they *do* apply to determine if a threat is present, and they are included when a threat *count* is made. 
+
+/* If a skill allows you to do something when your target is threatened by Dark, you can under ambient Dark. 
+If it lets you trade Dark to do something else, you can't unless it is directly stated that ambient threats can be traded. */
 
 Fiction first: Notice the lack of a rule on darkness and visibility in "Dark 3". They should have a torch!

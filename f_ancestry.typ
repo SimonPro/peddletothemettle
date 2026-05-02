@@ -14,7 +14,7 @@ Disadvantage to influence emotionally.
 _Is he crying due to pleasure or pain? Help me out._
 
 Dragonkin. Choose Fire, Cold or Blight. Gain: 
-Dragonbreath. Mark stress to roll 1d10i and introduce the chosen option to up to 2 close foes. 
+Dragonbreath. Mark stress to roll 1d10i and add the chosen threat to up to 2 close foes. 
 Improvement. 4 foes. 
 
 Big. Increase your injury limit by X. Damage from falls is doubled. 

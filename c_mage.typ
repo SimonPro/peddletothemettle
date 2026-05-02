@@ -1,7 +1,6 @@
 /* This file for all magic-y type classes and abilities. */
 
 == Mage
-// Wizard, Mage, Sorcerer, Witch 
 
 Magic is incredible and everyone else wishes they got the letter to go and study it. 
 You're a wizard, hurray, so that is exactly what you do. 
@@ -21,8 +20,6 @@ You have Advantage on tests: (Pick 3)
 When you cast a spell, mark stress to do one of: 
  - Reroll any one die included in casting the spell. 
  - Cast it as though you spent one additional action, up to three. 
- - Increase a threat, if the spell would instead introduce it. 
-//Increase its range from close to far
 
 *Mage's implement.*
 You carry a wand, staff, orb, magical sword, book, or similar item through which your spells are focused. 
@@ -49,14 +46,13 @@ Once each turn, you can mark stress to sustain a magical effect without spending
 *Improved implement*. 
 It has an associated threat. Like Blight for a serpent staff. 
  - When you wield it, "spellcasting effect" choose 2 instead of 1. 
- - Trade in a result of 1 to introduce or clear a threat instead on one target of the spell. Choose from ambient threats or the associated threat. 
+ - Trade in a result of 1 to add or clear a threat instead on one target of the spell. Choose from ambient threats or the associated threat. 
 
 *Spellcasting proficiency.*
 Whenever you cast a spell, roll 1d6. 
 If the result is 5 or 6, choose one effect: 
  - Reroll one damage die dealt by it
  - If you must mark stress to cast the spell, do not mark that stress. 
- - If the spell introduces a threat, increase it instead (more than one). 
 /* Heightened magic table? Cast a spell, and mark stress to get an effect based on the 1d6 roll. 
 1: Nothing happens. 
 2-5: If the spell has you roll other dice (damage, healing or something else), you can reroll one die and keep the new result. 
@@ -85,6 +81,13 @@ Each track gives the opportunity to control more doodads that will "act on their
 */
 
 === Wizard
+/*
+Core class mechanic
+1. Elemental Conduit - Can apply their element from ambient to a foe 
+2. Elemental Transformation - Can convert targeted threat [Fire, Cold, Water, Fool, Trap] (transformer de de la glace en eau, l'eau en terrain glissant (trap), de l'eau en vapeur aveuglante(fool))
+3. Spellbook
+
+*/
 
 *Spellbook.*
 Grab a stack of index cards, sticky notes or a small notebook to be your _spellbook_. 
@@ -113,7 +116,7 @@ Doodad: Ice that brings up one ambient Cold
 - protects 
 
 Spell: Icicle shard (far)
-Introduce Cold, and 
+Add Cold, and 
 1. 1d4i. 
 2. 1d8i. 
 3. 1d12i. 
@@ -183,7 +186,7 @@ Spend 1 to add 1 Cold to a foe when you attack.
 Elementalist. 
 Channel the elements. 
 Add Fire or Cold to a foe. 
-Shift one ambient Fire, Cold to a foe. 
+Trade Fire for Cold, or vice versa. 
 Roll 1d4 damage for each of them. 
 Bonus: Also turn one into another other. 
 
@@ -231,7 +234,7 @@ Sustain to clear an ambient Dark for a short time.
 Water: Pressure spray/Control water
 
 Pressure Spray (far)
-Introduce Water, and 
+Add Water if absent, and 
 1. 1d4i. 
 2. 1d8i. 
 3. 1d12i. 
@@ -241,7 +244,7 @@ Open: Force push/Message or telepathy or mage hand
 
 Force Push (close)
 1. 1d8i
-2. 2d8i, introduce Open. 
+2. 2d8i, add Open if absent. 
 3. 3d8i, increase Open. 
 If any die lands on 8, a foe is pushed back from you; clear one i they dealt to you. 
 
@@ -251,9 +254,9 @@ Communicate (back and forth) through your mind. You must be aware that person is
 Dark: Blinding bolt/Darkness
 
 Blinding Rays (far)
-1. 1d4i, introduce Dark. 
-2. 1d4i, introduce Dark to two targets.  
-3. 1d4i, introduce Dark to three targets. 
+1. 1d4i, add Dark. 
+2. 1d4i, add Dark to two targets.  
+3. 1d4i, add Dark to three targets. 
 
 Cold: Ice lance/Freezing touch of some kind?
 
@@ -261,13 +264,13 @@ Blight: Acid splash/Wilt and Flourish
 
 Acid splash (far)
 1. 1d6i. 
-2. 2d6i spread on foes, introduce Blight to those hit. 
-3. 4d6i spread on foes, up to 2 each, introduce Blight to those hit. 
+2. 2d6i spread on foes, add Blight to those hit if absent. 
+3. 4d6i spread on foes, up to 2 each, add Blight to those hit. 
 
 Fool: Daze/Minor illusion
 
 Daze (far)
-Introduce Fool, and 
+Add Fool, and 
 1. 1d4i. 
 2. 1d8i. 
 3. 1d12i. 
@@ -277,7 +280,7 @@ Dread: Nightmare hex/
 Trap: Propelled shards/Animate object
 
 Nightmare Hex (far)
-Introduce Dread, and 
+Add Dread, and 
 1. 1d4i. 
 2. 1d6i, and the foe ...
 

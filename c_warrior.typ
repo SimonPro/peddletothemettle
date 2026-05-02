@@ -90,7 +90,7 @@ Your protégé might be a muse, a romantic interest, or just the bookish wizard 
 
 Your characters gains a reliable test with rerolls on 1 and 2: _Safeguard your protégé._
 
-Draw them away. With each action spent to attack a foe, you can shift a damage die or threat dealt by them to your protégé over to you. 
+Draw them away. With each action spent to attack a foe, you can bring a damage die or threat dealt by them to your protégé over to you. 
 
 (Implement fun things with the protégé here.)
 
@@ -278,7 +278,7 @@ When you attack with it, also roll a six-sided die, preferably one with a unique
 if it lands on 1-2-3-4:
 - Add this to the damage output
 If it lands on 5-6, choose 1: 
-- Introduce a relevant threat (Blurry vision for Dark, knocked over for Open, panicked for Dread, and so on)
+- Add a relevant threat (Blurry vision for Dark, knocked over for Open, panicked for Dread, and so on)
 - Turn one damage die to its highest possible value (6 for a d6, 8 for a d8, and so on). 
 
 
@@ -290,7 +290,7 @@ If it lands on 5-6, choose 1:
 *Chaining Combo*: Passive: You can combine all your attack into a single big attack (sum all dice)
 
 *Survival*: If water or trap present or Mark stress. heal 1d8 HP
-*Scouting flashback*: Mark stress. Clear all Trap threats, or shift up to 2. 
+*Scouting flashback*: Mark stress. Clear all Trap threats, or clear 2 then add 2. 
 *Lure into a trap*:  Add Trap, or a threat found among ambient ones, to a foe. 
 *Increased reliability* : Improve the reliability threshold of an existing reliable test
 
@@ -347,7 +347,7 @@ Intercept; at resolve, bring any number of "1s" to you from close range.
 
 Ranger. 
 (Action) Scouting flashback
-Mark stress. Clear all Trap threats, or shift up to 2. 
+Mark stress. Clear all Trap threats, or clear then add up to 2. 
 _Thankfully, I had seen this while scouting ahead and instead led him into a trap of my own making._
 
 Lure into a trap
