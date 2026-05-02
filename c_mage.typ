@@ -1,7 +1,6 @@
 /* This file for all magic-y type classes and abilities. */
 
 == Mage
-// Wizard, Mage, Sorcerer, Witch 
 
 Magic is incredible and everyone else wishes they got the letter to go and study it. 
 You're a wizard, hurray, so that is exactly what you do. 
@@ -82,6 +81,13 @@ Each track gives the opportunity to control more doodads that will "act on their
 */
 
 === Wizard
+/*
+Core class mechanic
+1. Elemental Conduit - Can apply their element from ambient to a foe 
+2. Elemental Transformation - Can convert targeted threat [Fire, Cold, Water, Fool, Trap] (transformer de de la glace en eau, l'eau en terrain glissant (trap), de l'eau en vapeur aveuglante(fool))
+3. Spellbook
+
+*/
 
 *Spellbook.*
 Grab a stack of index cards, sticky notes or a small notebook to be your _spellbook_. 

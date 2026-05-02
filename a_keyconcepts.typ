@@ -5,10 +5,17 @@ In the text, a *hero* is a character played by someone at the table.
 The heroes travel together as a group and ought to give themselves a name. 
 Think along the lines of the _Argonauts_, or the _Knights of the round table_. 
 
-== Stress and Injury limits
-Heroes and foes in the story can sustain stress and injury, up to a limit. 
-When the injuries suffered by a hero goes past its injury limit, it is dying. 
-When a hero marks a Stress and meets its Stress limit, it is unable to mark more Stress until it rests. 
+== Stress and Injury
+Though heroes have no injuries or stress to begin with, they will eventually have to _mark_ them. 
+When you mark *stress*, you usually just mark one. 
+*Injuries* (i) are more numerous, suffered based on results of die rolls. 
+For instance, 2d6i means rolling two six-sided dice, and tallying up a total number of injuries. 
+
+When the total number of injuries suffered by a hero exceed its *injury limit*, it is dying. 
+When a hero has reached its *stress limit*, it is unable to mark more. 
+
+Heroes can rest to _clear_ injuries and stress back to zero, among other methods. 
+_Mark_ and _Clear_ are important keywords. 
 
 /* Are skills needed here?
 Trade: Alchemy, Carpentry, Cooking, Tailoring, First aid, Haggling, and similar. 
@@ -33,10 +40,8 @@ A test has a *difficulty*, often set by the game master, per the following table
   table.hline(stroke: black)
 )
 
-The number should reflect the difficulty for a typical adult person, not that hero in particular. 
-
-== Rolling the test
-The player rolls two twelve-sided dice (2d12) and compares both results to the difficulty. 
+== Rolling a test
+The player rolls two twelve-sided dice (2d12) and compares *both results* to the difficulty. 
 
 If they are lower than the difficulty, the hero *fumbles (\--)*. 
 They do not get what they want, and the situation becomes worse. 
@@ -63,9 +68,20 @@ You can do this multiple times on the same test.
 */
 
 = THREATS
-/* Fire, Water, Dark, Trap, Cold, Open, Dread, Blight, Fool */
+Nine threats are used to represent various adverse conditions. 
+Threats have no special effect by themselves, but other game rules can check if a threat is absent or present; if so, how many, and so on. 
 
-=== Wording
+Blight | Poison, disease, miasma
+Cold | Cold weather, night, ice, wind
+Dark | Darkness, visibility impairments
+Dread | Fear, discomfort, panic
+Fire | Fire and smoke, burning sun, heat, burns
+Fool | Confusion, surprise, misperception
+Open | Off guard, prone, exposed, nowhere to hide
+Trap | Accidental injury, dangerous terrain, being stuck
+Water | Water, being wet, drowning risk
+
+== Using threats
 
 *Add.*
 _Add_ a threat by marking a creature with it. 
@@ -80,8 +96,12 @@ _Clear_ erases one threat, the opposite of adding them.
 *Trade.*
 To _trade_ a threat, clear it first, then apply whatever effect is granted by the trade. 
 
+*Ignore.*
+When something or someone _ignores_ a threat, they can decide to ignore any consequence of having that threat on them. 
+Play as though the threat does not exist for them. 
+
 *Ambient.*
-_Ambient_ threats reflect environmental conditions, in the background. 
+Threats can apply to just one thing or person, but _ambient_ threats reflect environmental conditions, in the background. 
 
 Unless mentioned directly, ambient threats cannot be added, cleared, traded, or otherwise changed. 
 However, they *do* apply to determine if a threat is present, and they are included when a threat *count* is made. 

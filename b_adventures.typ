@@ -78,6 +78,23 @@ Raiding a poor farmer's hovel might fetch one supply, as would turning foraged p
 Nothing prevents the heroes from repeating a meager and short rest to fully clear their injuries and stress, but their Supply will quickly dwindle. 
 
 === Definitions for ambient threats. 
+
+Blight
+1 Poisonous mushrooms, thin air, in a tannery
+2 Noxious fumes, puddles of acid
+3 Toxins that quickly lead to death
+(Green mushroom)
+
+On someone: Poisoned, sick. 
+
+Dark
+1 Darkened corners to skulk in, starlit night, stormy weather
+2 Candlelit darkness, deep fog
+3 Pitch black
+(Crossed eye)
+
+On someone: Unable to see, knocked on the head. 
+
 Fire
 1 Noon, intense heat, contained bonfire
 2 Uncontrolled open fires, raging lightning bolts
@@ -93,14 +110,6 @@ Water
 (Blue drop)
 
 On someone: Wet, currents, swimming
-
-Dark
-1 Darkened corners to skulk in, starlit night, stormy weather
-2 Candlelit darkness, deep fog
-3 Pitch black
-(Crossed eye)
-
-On someone: Unable to see, knocked on the head. 
 
 Trap
 1 Brambles, slick stones, danger of light injury
@@ -133,14 +142,6 @@ Dread
 (Black skull)
 
 On someone: Panicked, afraid, humiliated. 
-
-Blight
-1 Poisonous mushrooms, thin air, in a tannery
-2 Noxious fumes, puddles of acid
-3 Toxins that quickly lead to death
-(Green mushroom)
-
-On someone: Poisoned, sick. 
 
 Fool
 1 Surprise, deception, simple illusions, confusing environments such as a busy marketplace
